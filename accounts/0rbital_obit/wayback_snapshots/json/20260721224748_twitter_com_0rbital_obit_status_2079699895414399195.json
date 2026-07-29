@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2079628258178633820",
+    "created_at": "2026-07-21T22:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T23:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079699895414399195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1073846173666955264",
+          "start": 0,
+          "username": "corryvreckan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079699895414399195",
+    "in_reply_to_user_id": "1073846173666955264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079628258178633820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@corryvreckan_ 为什么不喜欢单宁 😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1736,
+        "media_key": "3_2079628243356033025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxS3nYbIAE-Npd.jpg",
+        "width": 3088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2079628258178633820",
+        "created_at": "2026-07-21T22:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079699895414399195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1073846173666955264",
+              "start": 0,
+              "username": "corryvreckan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079699895414399195",
+        "in_reply_to_user_id": "1073846173666955264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079628258178633820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@corryvreckan_ 为什么不喜欢单宁 😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079628243356033025"
+          ]
+        },
+        "author_id": "1073846173666955264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          }
+        ],
+        "conversation_id": "2079628258178633820",
+        "created_at": "2026-07-21T18:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079628258178633820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8vdJMOEVY",
+              "end": 101,
+              "expanded_url": "https://x.com/corryvreckan_/status/2079628258178633820/photo/1",
+              "media_key": "3_2079628243356033025",
+              "start": 78,
+              "url": "https://t.co/f8vdJMOEVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079628258178633820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 256,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "primitivo，意大利东南部的传统品种，它在美国的另外一个名字更广为人知一点：zinfandel，不喜欢酸和涩的又不希望太水的干红，它几乎是唯一选择了 https://t.co/f8vdJMOEVY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 350,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-15T07:44:13.000Z",
+        "description": "to the islay @Eroswithyou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "Eroswithyou"
+              }
+            ]
+          }
+        },
+        "id": "1073846173666955264",
+        "location": "乌克巴尔",
+        "name": "环形废墟",
+        "pinned_tweet_id": "2058598138907439194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969908631157309440/KbxhGxgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4555,
+          "following_count": 1139,
+          "like_count": 1166,
+          "listed_count": 18,
+          "media_count": 201,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "corryvreckan_",
+        "verified": false
+      }
+    ]
+  }
+}

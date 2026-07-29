@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1840843377685737864",
+    "created_at": "2024-09-30T19:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T20:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840843377685737864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1840843377685737864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好崩溃好崩溃好崩溃\n起床起早了睡不着了\n有种强烈的焦虑和冲动去做很多事尤其是写作业却又做什么都做不下去也完全没意思\n第一次体验急迫的什么都不想做而不是慢性的等死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1840843377685737864",
+        "created_at": "2024-09-30T19:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T20:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840843377685737864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840843377685737864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃好崩溃好崩溃\n起床起早了睡不着了\n有种强烈的焦虑和冲动去做很多事尤其是写作业却又做什么都做不下去也完全没意思\n第一次体验急迫的什么都不想做而不是慢性的等死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "火焰将我的血肉与骨头剥离开来，变成无机的盐",
+        "id": "1781621357014286336",
+        "location": "500 mile",
+        "name": "秘密集结",
+        "pinned_tweet_id": "1840558211671220340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819211949097242624/zDuFTTpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 125,
+          "like_count": 267,
+          "listed_count": 0,
+          "tweet_count": 284
+        },
+        "username": "0rbital_obit",
+        "verified": false
+      }
+    ]
+  }
+}

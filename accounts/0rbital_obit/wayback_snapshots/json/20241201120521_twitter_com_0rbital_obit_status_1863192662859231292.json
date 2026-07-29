@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "1863192662859231292",
+    "created_at": "2024-12-01T12:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T13:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863192662859231292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "973884340345044992",
+          "start": 3,
+          "username": "Beavis_tcy"
+        },
+        {
+          "end": 27,
+          "id": "1462419807173677059",
+          "start": 16,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863192662859231292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863124017034461509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Beavis_tcy: @Jane_S_Eye 那也不是示愛吧，那是因為兩人都窮困潦倒，所以才有共鳴的感受吧😂\n\n因為本來跟高更吵架這傳聞，唯一的朋友也鬧翻弟弟又結婚之類的\n同樣的孤獨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1863192662859231292",
+        "created_at": "2024-12-01T12:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T13:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863192662859231292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "973884340345044992",
+              "start": 3,
+              "username": "Beavis_tcy"
+            },
+            {
+              "end": 27,
+              "id": "1462419807173677059",
+              "start": 16,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863192662859231292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863124017034461509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Beavis_tcy: @Jane_S_Eye 那也不是示愛吧，那是因為兩人都窮困潦倒，所以才有共鳴的感受吧😂\n\n因為本來跟高更吵架這傳聞，唯一的朋友也鬧翻弟弟又結婚之類的\n同樣的孤獨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973884340345044992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1862895766517473435",
+        "created_at": "2024-12-01T07:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T08:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863124017034461509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863124017034461509",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862895766517473435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jane_S_Eye 那也不是示愛吧，那是因為兩人都窮困潦倒，所以才有共鳴的感受吧😂\n\n因為本來跟高更吵架這傳聞，唯一的朋友也鬧翻弟弟又結婚之類的\n同樣的孤獨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "但是我怎么能真的敢“拥有”语言？",
+        "id": "1781621357014286336",
+        "location": "11:00",
+        "name": "零种类语言拥有者",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819211949097242624/zDuFTTpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 134,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 303
+        },
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-14T11:31:35.000Z",
+        "description": "HongKonger",
+        "id": "973884340345044992",
+        "location": "United Kingdom",
+        "name": "Be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498887595849179138/LyAfy274_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 285,
+          "like_count": 2413,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1593
+        },
+        "username": "Beavis_tcy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "I don’t want to talk about it, how you broke my heart.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw04.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw04.damoplane1.com/#/register?code=khRH22kV",
+                "start": 0,
+                "url": "https://t.co/CQ0rWuJGb1"
+              }
+            ]
+          }
+        },
+        "id": "1462419807173677059",
+        "location": "自用梯子🪜",
+        "name": "Céline🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861393703329505284/hgFj9Gjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8389,
+          "following_count": 1867,
+          "like_count": 7266,
+          "listed_count": 20,
+          "media_count": 772,
+          "tweet_count": 8154
+        },
+        "url": "https://t.co/CQ0rWuJGb1",
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

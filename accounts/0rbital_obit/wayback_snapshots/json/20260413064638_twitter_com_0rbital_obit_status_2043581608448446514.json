@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2043419373076111699",
+    "created_at": "2026-04-13T06:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043581608448446514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1549011946871336960",
+          "start": 0,
+          "username": "Alantur57426778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043581608448446514",
+    "in_reply_to_user_id": "1549011946871336960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043419373076111699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alantur57426778 那就不得不提到玩摇滚的兄弟会结构和阳刚气质了。批评性少数是是政治正确，“为社会打抱不平”，反对“娘炮”，认为这才是摇滚的反抗。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2043418649042751488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuub0-aEAANBpk.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2043418708190879744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuufRUa4AAleAh.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2043418708258013184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuufRkbQAArMmw.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2043418708199268352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuufRWa4AAamO7.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2043419373076111699",
+        "created_at": "2026-04-13T06:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043581608448446514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1549011946871336960",
+              "start": 0,
+              "username": "Alantur57426778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043581608448446514",
+        "in_reply_to_user_id": "1549011946871336960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043419373076111699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alantur57426778 那就不得不提到玩摇滚的兄弟会结构和阳刚气质了。批评性少数是是政治正确，“为社会打抱不平”，反对“娘炮”，认为这才是摇滚的反抗。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043418649042751488",
+            "3_2043418708190879744",
+            "3_2043418708258013184",
+            "3_2043418708199268352"
+          ]
+        },
+        "author_id": "1549011946871336960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2043419373076111699",
+        "created_at": "2026-04-12T20:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T21:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043419373076111699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8Gt75Hu7v",
+              "end": 116,
+              "expanded_url": "https://x.com/Alantur57426778/status/2043419373076111699/photo/1",
+              "media_key": "3_2043418649042751488",
+              "start": 93,
+              "url": "https://t.co/M8Gt75Hu7v"
+            },
+            {
+              "display_url": "pic.x.com/M8Gt75Hu7v",
+              "end": 116,
+              "expanded_url": "https://x.com/Alantur57426778/status/2043419373076111699/photo/1",
+              "media_key": "3_2043418708190879744",
+              "start": 93,
+              "url": "https://t.co/M8Gt75Hu7v"
+            },
+            {
+              "display_url": "pic.x.com/M8Gt75Hu7v",
+              "end": 116,
+              "expanded_url": "https://x.com/Alantur57426778/status/2043419373076111699/photo/1",
+              "media_key": "3_2043418708258013184",
+              "start": 93,
+              "url": "https://t.co/M8Gt75Hu7v"
+            },
+            {
+              "display_url": "pic.x.com/M8Gt75Hu7v",
+              "end": 116,
+              "expanded_url": "https://x.com/Alantur57426778/status/2043419373076111699/photo/1",
+              "media_key": "3_2043418708199268352",
+              "start": 93,
+              "url": "https://t.co/M8Gt75Hu7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043419373076111699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4341,
+          "like_count": 140,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "实际的摇滚精神：反抗权威、挣脱传统、追求自由，不要战争要爱情（参见西方世界1960年代的反文化运动）\n泽尔的摇滚男乐迷：“我们去占领男同贴吧吧！”，“同÷”、“皮炎怪”云云，高下立判。 https://t.co/M8Gt75Hu7v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 270,
+          "like_count": 975,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "沢尔请给全体酷儿道歉！",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "咸福宫日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 170,
+          "like_count": 12090,
+          "listed_count": 5,
+          "media_count": 580,
+          "tweet_count": 1687
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

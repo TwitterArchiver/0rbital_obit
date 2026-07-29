@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2043683697845547349",
+    "created_at": "2026-04-13T16:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043721908982612183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043721908982612183",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043683697845547349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 我现在和你现在的分比较像，我本来以为我会比原来保守，结果按照这个量表比两年前还激进了……\n\n倒是比两年前口述史的采访时很多问题有了更清楚的答案。很不幸的是人类难以做到视角的变动，总是会从自己的处境出发。\n\n我大概知道你和几年前改变的几条是哪几条，我和你相似的 不同的是哪几条。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1507,
+        "media_key": "3_2043683694968233984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyffh_W4AAUWw2.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2043683697845547349",
+        "created_at": "2026-04-13T16:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043721908982612183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043721908982612183",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043683697845547349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 我现在和你现在的分比较像，我本来以为我会比原来保守，结果按照这个量表比两年前还激进了……\n\n倒是比两年前口述史的采访时很多问题有了更清楚的答案。很不幸的是人类难以做到视角的变动，总是会从自己的处境出发。\n\n我大概知道你和几年前改变的几条是哪几条，我和你相似的 不同的是哪几条。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043683694968233984"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043683697845547349",
+        "created_at": "2026-04-13T13:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043683697845547349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWkT0Caybp",
+              "end": 36,
+              "expanded_url": "https://x.com/amber_toffee/status/2043683697845547349/photo/1",
+              "media_key": "3_2043683694968233984",
+              "start": 13,
+              "url": "https://t.co/AWkT0Caybp"
+            },
+            {
+              "display_url": "x.com/yunyunyshu/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/yunyunyshu/status/2043620807189160184",
+              "start": 37,
+              "url": "https://t.co/A5G9ooK9Xb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043683697845547349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3631,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043620807189160184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我测的和你们好像不一样（ https://t.co/AWkT0Caybp https://t.co/A5G9ooK9Xb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 270,
+          "like_count": 986,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24191,
+          "following_count": 2728,
+          "like_count": 40548,
+          "listed_count": 11,
+          "media_count": 592,
+          "tweet_count": 21662
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

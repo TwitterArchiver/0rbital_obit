@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1929904961275691204",
+    "created_at": "2025-06-05T04:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T05:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930489064853217774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1294873066984488960",
+          "start": 0,
+          "username": "Qiji67373"
+        },
+        {
+          "end": 22,
+          "id": "1401733664682102786",
+          "start": 11,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930489064853217774",
+    "in_reply_to_user_id": "1294873066984488960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929905340914774507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiji67373 @mukdengise 概念神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1929904961275691204",
+        "created_at": "2025-06-05T04:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T05:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930489064853217774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1294873066984488960",
+              "start": 0,
+              "username": "Qiji67373"
+            },
+            {
+              "end": 22,
+              "id": "1401733664682102786",
+              "start": 11,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930489064853217774",
+        "in_reply_to_user_id": "1294873066984488960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929905340914774507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiji67373 @mukdengise 概念神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294873066984488960",
+        "conversation_id": "1929904961275691204",
+        "created_at": "2025-06-03T14:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929905340914774507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929905340914774507",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929904961275691204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 调教哥是什么都能调吗？可以把端午调成7天吗？谢谢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 176,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T05:46:22.000Z",
+        "description": "愿你我都做生活的高手；奇迹如风掠过荒野；",
+        "id": "1294873066984488960",
+        "location": "世纪末花丛中的死之结界",
+        "name": "风掠过荒野",
+        "pinned_tweet_id": "1830654663928201280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924142691958300673/CLXDKFgI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 571,
+          "like_count": 4275,
+          "listed_count": 7,
+          "media_count": 444,
+          "tweet_count": 6111
+        },
+        "username": "Qiji67373",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "东海渥集巫女/IG: ilhajugvn/looking for our Chalice and fighting against the Blade/裏：@fulgiyan/满洲语bot：@manju_gisun/桔：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "fulgiyan"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "manju_gisun"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906271261095047170/syhgZG8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8346,
+          "following_count": 726,
+          "like_count": 131488,
+          "listed_count": 47,
+          "media_count": 1527,
+          "tweet_count": 19542
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

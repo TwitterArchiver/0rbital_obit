@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2042007665031643442",
+    "created_at": "2026-04-08T22:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T23:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042007665031643442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042007665031643442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041872654878081322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 只会为她们感到很难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2042007665031643442",
+        "created_at": "2026-04-08T22:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042007665031643442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042007665031643442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041872654878081322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 只会为她们感到很难过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2041872654878081322",
+        "created_at": "2026-04-08T13:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041872654878081322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/siyu060910/status/2041755982322397450",
+              "start": 11,
+              "url": "https://t.co/7gY6r3O8iN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041872654878081322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1556,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041755982322397450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只会为她们感到很难过 https://t.co/7gY6r3O8iN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 259,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ᴀʟᴛ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🏳️‍⚧️ ⚢ ☭ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24349,
+          "following_count": 2708,
+          "like_count": 40139,
+          "listed_count": 9,
+          "media_count": 562,
+          "tweet_count": 21435
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

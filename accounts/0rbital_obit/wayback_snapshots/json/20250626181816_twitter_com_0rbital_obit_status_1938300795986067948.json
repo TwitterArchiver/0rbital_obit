@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1937991965737685017",
+    "created_at": "2025-06-26T18:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T19:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938300795986067948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1262311550116696066",
+          "start": 0,
+          "username": "yaoniangmao"
+        },
+        {
+          "end": 27,
+          "id": "1468416451208179712",
+          "start": 13,
+          "username": "shina_makotsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938300795986067948",
+    "in_reply_to_user_id": "1262311550116696066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937991965737685017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaoniangmao @shina_makotsu 孟老师😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1937991499255529472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUhACraQAAXPE0.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1937991519103057920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUhBMnbgAAxjRU.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1937991965737685017",
+        "created_at": "2025-06-26T18:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T19:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938300795986067948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1262311550116696066",
+              "start": 0,
+              "username": "yaoniangmao"
+            },
+            {
+              "end": 27,
+              "id": "1468416451208179712",
+              "start": 13,
+              "username": "shina_makotsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938300795986067948",
+        "in_reply_to_user_id": "1262311550116696066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937991965737685017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaoniangmao @shina_makotsu 孟老师😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937991499255529472",
+            "3_1937991519103057920"
+          ]
+        },
+        "author_id": "1262311550116696066",
+        "conversation_id": "1937991965737685017",
+        "created_at": "2025-06-25T21:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T22:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937991965737685017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1468416451208179712",
+              "start": 5,
+              "username": "shina_makotsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X32Amo6DbR",
+              "end": 175,
+              "expanded_url": "https://x.com/yaoniangmao/status/1937991965737685017/photo/1",
+              "media_key": "3_1937991499255529472",
+              "start": 152,
+              "url": "https://t.co/X32Amo6DbR"
+            },
+            {
+              "display_url": "pic.x.com/X32Amo6DbR",
+              "end": 175,
+              "expanded_url": "https://x.com/yaoniangmao/status/1937991965737685017/photo/1",
+              "media_key": "3_1937991519103057920",
+              "start": 152,
+              "url": "https://t.co/X32Amo6DbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937991965737685017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 8072,
+          "like_count": 71,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本喵采访了@shina_makotsu 魔骨亲，这是一位扎根于珠三角的跨性别女士，她也同时做自杀干预，结识了所爱\n\n2023年11月，她的爱人自杀，随后她被公安上门，一车的强盗将她从她的小屋里掳走了大量跨性别进行激素疗法必备的药品\n\n随后她被投入黑暗潮湿阴冷的看守所呆了五个月，因为警察想要鉴定她精神病 https://t.co/X32Amo6DbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 197,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T09:19:42.000Z",
+        "description": "色谱龙/补/日雌/减肥药/美白丸/在线销售 telegram客服https://t.co/77dgFQFlHJ（暂不可用） discord客服添加好友yaoniangmao 商品介绍https://t.co/GWrDV0TLZV 商品特殊，请耐心等待喵喵回复，协助客服@Imagawanobunaga",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 134,
+                "username": "Imagawanobunaga"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yaoniangmiao",
+                "end": 55,
+                "expanded_url": "http://t.me/yaoniangmiao",
+                "start": 32,
+                "url": "https://t.co/77dgFQFlHJ"
+              },
+              {
+                "display_url": "matters.news/@urcity",
+                "end": 114,
+                "expanded_url": "http://matters.news/@urcity",
+                "start": 91,
+                "url": "https://t.co/GWrDV0TLZV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "matters.news/@urcity",
+                "end": 23,
+                "expanded_url": "https://matters.news/@urcity",
+                "start": 0,
+                "url": "https://t.co/kbHYvxp5px"
+              }
+            ]
+          }
+        },
+        "id": "1262311550116696066",
+        "location": "缅北 柬埔寨 中南海 马上就到你家门口",
+        "name": "藥娘貓（糖商）🏳️‍⚧️（邮全球）",
+        "pinned_tweet_id": "1639234345889308672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880288042914836482/7uPg4mOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11993,
+          "following_count": 6658,
+          "like_count": 9258,
+          "listed_count": 45,
+          "media_count": 331,
+          "tweet_count": 4352
+        },
+        "url": "https://t.co/kbHYvxp5px",
+        "username": "yaoniangmao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T03:05:47.000Z",
+        "description": "持证上岗//COC跑团人//路过的骑士厨//学生\n长毛象 https://t.co/P1XBuGxUJO\n糖果药店表https://t.co/d7W8od16Xd\n已逝爱人 @ANQNKNy\n爱人 @Shina_Kaede & @shizunyan_\n微信公众号 mako",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "ANQNKNy"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "Shina_Kaede"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "shizunyan_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mstdn.party/@makotsu",
+                "end": 52,
+                "expanded_url": "http://mstdn.party/@makotsu",
+                "start": 29,
+                "url": "https://t.co/P1XBuGxUJO"
+              },
+              {
+                "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                "end": 81,
+                "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                "start": 58,
+                "url": "https://t.co/d7W8od16Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makotsu.xyz",
+                "end": 23,
+                "expanded_url": "https://makotsu.xyz/",
+                "start": 0,
+                "url": "https://t.co/FWQxuScjJA"
+              }
+            ]
+          }
+        },
+        "id": "1468416451208179712",
+        "location": "幻想乡 红魔馆",
+        "name": "紫楓·恒箫·魔骨",
+        "pinned_tweet_id": "1500615371094691842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 726,
+          "like_count": 4997,
+          "listed_count": 23,
+          "media_count": 698,
+          "tweet_count": 21412
+        },
+        "url": "https://t.co/FWQxuScjJA",
+        "username": "shina_makotsu",
+        "verified": false
+      }
+    ]
+  }
+}

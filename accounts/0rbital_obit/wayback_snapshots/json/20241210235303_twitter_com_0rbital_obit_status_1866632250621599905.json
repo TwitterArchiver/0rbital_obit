@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1866185192475668573",
+    "created_at": "2024-12-10T23:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T00:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866632250621599905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1568588474705653766",
+          "start": 0,
+          "username": "yuzuki9271"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866632250621599905",
+    "in_reply_to_user_id": "1568588474705653766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866185192475668573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzuki9271 阿妈杀我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1866185192475668573",
+        "created_at": "2024-12-10T23:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T00:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866632250621599905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1568588474705653766",
+              "start": 0,
+              "username": "yuzuki9271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866632250621599905",
+        "in_reply_to_user_id": "1568588474705653766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866185192475668573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzuki9271 阿妈杀我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866185185865453574",
+            "3_1866185185861259266",
+            "3_1866185185865461760"
+          ]
+        },
+        "author_id": "1568588474705653766",
+        "conversation_id": "1866185192475668573",
+        "created_at": "2024-12-09T18:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T19:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866185192475668573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ary7HqSwvB",
+              "end": 23,
+              "expanded_url": "https://x.com/yuzuki9271/status/1866185192475668573/photo/1",
+              "media_key": "3_1866185185865453574",
+              "start": 0,
+              "url": "https://t.co/ary7HqSwvB"
+            },
+            {
+              "display_url": "pic.x.com/ary7HqSwvB",
+              "end": 23,
+              "expanded_url": "https://x.com/yuzuki9271/status/1866185192475668573/photo/1",
+              "media_key": "3_1866185185861259266",
+              "start": 0,
+              "url": "https://t.co/ary7HqSwvB"
+            },
+            {
+              "display_url": "pic.x.com/ary7HqSwvB",
+              "end": 23,
+              "expanded_url": "https://x.com/yuzuki9271/status/1866185192475668573/photo/1",
+              "media_key": "3_1866185185865461760",
+              "start": 0,
+              "url": "https://t.co/ary7HqSwvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866185192475668573",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 11089,
+          "like_count": 201,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ary7HqSwvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "但是我怎么能真的敢“拥有”语言？",
+        "id": "1781621357014286336",
+        "location": "11:00",
+        "name": "零种类语言拥有者",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819211949097242624/zDuFTTpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 134,
+          "like_count": 302,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 306
+        },
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T13:14:13.000Z",
+        "description": "",
+        "id": "1568588474705653766",
+        "name": "绝不调",
+        "pinned_tweet_id": "1837422873058988507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204527516647424/zqzN0eQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5715,
+          "following_count": 1238,
+          "like_count": 7966,
+          "listed_count": 10,
+          "media_count": 446,
+          "tweet_count": 6058
+        },
+        "username": "yuzuki9271",
+        "verified": false
+      }
+    ]
+  }
+}

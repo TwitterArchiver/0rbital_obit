@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1951980317826519184",
+    "created_at": "2025-08-04T22:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T23:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952494865754816790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741075170603749376",
+          "start": 0,
+          "username": "zhao_tito8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952494865754816790",
+    "in_reply_to_user_id": "1741075170603749376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951980317826519184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao_tito8964 赵局要不要做地牢合成器的mix然后彻底癫狂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1951980317826519184",
+        "created_at": "2025-08-04T22:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T23:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952494865754816790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741075170603749376",
+              "start": 0,
+              "username": "zhao_tito8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952494865754816790",
+        "in_reply_to_user_id": "1741075170603749376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951980317826519184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao_tito8964 赵局要不要做地牢合成器的mix然后彻底癫狂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "1951980317826519184",
+        "created_at": "2025-08-03T12:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T13:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951980317826519184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951980317826519184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听shoegaze的确没什么值得优越的，可是我总觉得听这类歌的人大概率是天生悲观甚至也有丢丢厌世，虽然看上去正常的不行，比如我。谁会想到我白天一本正经上班，下班戴上耳机认认真真听shoegaze沉浸在另一个世界。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人 ｜     半癫 半疯 半自理 半死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 204,
+          "like_count": 681,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "幻质解放主义/自残蓝调",
+        "id": "1741075170603749376",
+        "name": "伏尔泰酒馆♠️",
+        "pinned_tweet_id": "1950802584245272850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949634661623476224/csSaWfas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 964,
+          "like_count": 19846,
+          "listed_count": 1,
+          "media_count": 1031,
+          "tweet_count": 13304
+        },
+        "username": "zhao_tito8964",
+        "verified": false
+      }
+    ]
+  }
+}

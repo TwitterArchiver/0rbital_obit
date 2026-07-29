@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1909007446481186852",
+    "created_at": "2025-04-06T22:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T23:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909007446481186852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1420962557897035781",
+          "start": 3,
+          "username": "shrinkviolet77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909007446481186852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908772636987129979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shrinkviolet77: 指责某些群体脱产的时候，似乎没几个人会提到警察和军队？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1909007446481186852",
+        "created_at": "2025-04-06T22:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T23:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909007446481186852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1420962557897035781",
+              "start": 3,
+              "username": "shrinkviolet77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909007446481186852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908772636987129979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shrinkviolet77: 指责某些群体脱产的时候，似乎没几个人会提到警察和军队？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420962557897035781",
+        "conversation_id": "1908772636987129979",
+        "created_at": "2025-04-06T06:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T07:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908772636987129979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908772636987129979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 546,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "指责某些群体脱产的时候，似乎没几个人会提到警察和军队？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "当恐惧蔓延到全身",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 142,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "不辨寒暑，不识春秋，不分虚实，不知死活。\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 129,
+          "like_count": 34023,
+          "listed_count": 2,
+          "media_count": 465,
+          "tweet_count": 13548
+        },
+        "username": "shrinkviolet77",
+        "verified": false
+      }
+    ]
+  }
+}

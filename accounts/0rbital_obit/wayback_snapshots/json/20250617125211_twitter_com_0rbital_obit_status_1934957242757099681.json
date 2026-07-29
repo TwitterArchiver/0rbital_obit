@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1934825522523205932",
+    "created_at": "2025-06-17T12:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T13:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934957242757099681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1616855396811173888",
+          "start": 0,
+          "username": "RyousangataRei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934957242757099681",
+    "in_reply_to_user_id": "1616855396811173888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934825522523205932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyousangataRei 大白别抓我😱我不是臭外地的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934825522523205932].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934825522523205932",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934825522523205932"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1934825522523205932",
+        "created_at": "2025-06-17T12:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T13:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934957242757099681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1616855396811173888",
+              "start": 0,
+              "username": "RyousangataRei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934957242757099681",
+        "in_reply_to_user_id": "1616855396811173888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934825522523205932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyousangataRei 大白别抓我😱我不是臭外地的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 185,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T17:49:12.000Z",
+        "description": "I’m standing still.",
+        "id": "1616855396811173888",
+        "name": "你所能做的只是在爬行中保護好你自己",
+        "pinned_tweet_id": "1924304249074405727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933569200322457601/WQHJvEHs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 297,
+          "like_count": 58311,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 2949
+        },
+        "username": "RyousangataRei",
+        "verified": false
+      }
+    ]
+  }
+}

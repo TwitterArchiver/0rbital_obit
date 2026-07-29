@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1937112181851730345",
+    "created_at": "2025-06-23T16:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T17:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937184798994477188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 27,
+          "id": "1218028959109210113",
+          "start": 14,
+          "username": "OikawaRizumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937184798994477188",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937113539380162689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee @OikawaRizumu 我上辈子好像去过这里"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937113520551702528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuICe9IXMAA2qMJ.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1937112181851730345",
+        "created_at": "2025-06-23T16:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T17:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937184798994477188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 27,
+              "id": "1218028959109210113",
+              "start": 14,
+              "username": "OikawaRizumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937184798994477188",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937113539380162689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @OikawaRizumu 我上辈子好像去过这里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937113520551702528"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1937112181851730345",
+        "created_at": "2025-06-23T11:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T12:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937113539380162689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1218028959109210113",
+              "start": 0,
+              "username": "OikawaRizumu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRcZfi0VbI",
+              "end": 51,
+              "expanded_url": "https://x.com/amber_toffee/status/1937113539380162689/photo/1",
+              "media_key": "3_1937113520551702528",
+              "start": 28,
+              "url": "https://t.co/WRcZfi0VbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937113539380162689",
+        "in_reply_to_user_id": "1218028959109210113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937113089348096058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OikawaRizumu 并且这个地方就在天安门隔壁 https://t.co/WRcZfi0VbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 191,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "name": "amber🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10461,
+          "following_count": 2303,
+          "like_count": 32198,
+          "listed_count": 33,
+          "media_count": 486,
+          "tweet_count": 15215
+        },
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka LittleSound｜Member of Vue Vapor｜自费开源中，向往全职做自己热爱的事｜总是悲观，但尽力积极 ｜ 🐙: LittleSound｜🐘: @rizumu@mas.to\n\n🐌 Building https://t.co/LCgnH2rA6F",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Guii.AI",
+                "end": 135,
+                "expanded_url": "http://Guii.AI",
+                "start": 112,
+                "url": "https://t.co/LCgnH2rA6F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/rizumu",
+                "end": 23,
+                "expanded_url": "https://bento.me/rizumu",
+                "start": 0,
+                "url": "https://t.co/fQCQsSpiz1"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "location": "she/her",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1273658900336656384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1292832903324295170/_9EaiDIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9450,
+          "following_count": 1341,
+          "like_count": 41124,
+          "listed_count": 46,
+          "media_count": 1676,
+          "tweet_count": 11864
+        },
+        "url": "https://t.co/fQCQsSpiz1",
+        "username": "OikawaRizumu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027479854279757824"
+      ],
+      "media_source_tweet_id": [
+        "2027479902350426502"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027702480776188165",
+    "created_at": "2026-02-28T11:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027702480776188165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929015109579345920",
+          "start": 3,
+          "username": "Qwarz_Atarz"
+        },
+        {
+          "end": 30,
+          "id": "1529570698493952000",
+          "start": 17,
+          "username": "RealConorOil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bk5H1vYqmq",
+          "end": 64,
+          "expanded_url": "https://x.com/Qwarz_Atarz/status/2027479902350426502/photo/1",
+          "media_key": "3_2027479854279757824",
+          "start": 41,
+          "url": "https://t.co/Bk5H1vYqmq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027702480776188165",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027479902350426502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qwarz_Atarz: @RealConorOil truthnuke https://t.co/Bk5H1vYqmq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2027479854279757824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCMOL3ebEAAh3pN.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027479854279757824"
+          ],
+          "media_source_tweet_id": [
+            "2027479902350426502"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027702480776188165",
+        "created_at": "2026-02-28T11:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027702480776188165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929015109579345920",
+              "start": 3,
+              "username": "Qwarz_Atarz"
+            },
+            {
+              "end": 30,
+              "id": "1529570698493952000",
+              "start": 17,
+              "username": "RealConorOil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bk5H1vYqmq",
+              "end": 64,
+              "expanded_url": "https://x.com/Qwarz_Atarz/status/2027479902350426502/photo/1",
+              "media_key": "3_2027479854279757824",
+              "start": 41,
+              "url": "https://t.co/Bk5H1vYqmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027702480776188165",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027479902350426502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qwarz_Atarz: @RealConorOil truthnuke https://t.co/Bk5H1vYqmq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027479854279757824"
+          ]
+        },
+        "author_id": "1929015109579345920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027465053667307875",
+        "created_at": "2026-02-27T20:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T21:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027479902350426502"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "truthnuke",
+              "probability": 0.4969,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1529570698493952000",
+              "start": 0,
+              "username": "RealConorOil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bk5H1vYqmq",
+              "end": 47,
+              "expanded_url": "https://x.com/Qwarz_Atarz/status/2027479902350426502/photo/1",
+              "media_key": "3_2027479854279757824",
+              "start": 24,
+              "url": "https://t.co/Bk5H1vYqmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027479902350426502",
+        "in_reply_to_user_id": "1529570698493952000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4462,
+          "like_count": 456,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027465053667307875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RealConorOil truthnuke https://t.co/Bk5H1vYqmq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 234,
+          "like_count": 890,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T03:20:51.000Z",
+        "description": "#1 ILLEGAL TRANSGENDER ALIEN \n🏳️‍⚧️👽🏳️‍⚧️ #DarkWoke 🩷🩵🤍 \n\nsupport meeeee :33333 https://t.co/UGCg3Pz0pt\n\n☆ Your Favourite Russian Femboy ☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "DarkWoke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/QwarzAtarz",
+                "end": 103,
+                "expanded_url": "http://patreon.com/QwarzAtarz",
+                "start": 80,
+                "url": "https://t.co/UGCg3Pz0pt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/qwarz/commissi…",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/qwarz/commissions",
+                "start": 0,
+                "url": "https://t.co/40nOqCg8ZF"
+              }
+            ]
+          }
+        },
+        "id": "1929015109579345920",
+        "name": "Qwarzu🏳️‍⚧️👽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943984352087425024/XbEOTqmZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12684,
+          "following_count": 70,
+          "like_count": 60520,
+          "listed_count": 200,
+          "media_count": 284,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/40nOqCg8ZF",
+        "username": "Qwarz_Atarz",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T21:11:03.000Z",
+        "description": "The Oil Must Flow! Real 🇺🇸 American 🇺🇸 Patriot 🇺🇸, proud father of 3, and ender of woke. Conor D. Oil 2028! RIP Ms. Oil, you will be missed.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/Oil",
+                "end": 23,
+                "expanded_url": "https://discord.gg/Oil",
+                "start": 0,
+                "url": "https://t.co/KWjkfJc3xG"
+              }
+            ]
+          }
+        },
+        "id": "1529570698493952000",
+        "location": "Chicago, Illinois",
+        "name": "Conor D. Oil",
+        "pinned_tweet_id": "2027465053667307875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005366922603544576/Gtp66USO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46013,
+          "following_count": 402,
+          "like_count": 27935,
+          "listed_count": 161,
+          "media_count": 2124,
+          "tweet_count": 11637
+        },
+        "url": "https://t.co/KWjkfJc3xG",
+        "username": "RealConorOil",
+        "verified": true
+      }
+    ]
+  }
+}

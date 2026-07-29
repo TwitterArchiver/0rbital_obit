@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2052512978147348577",
+    "created_at": "2026-05-09T21:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T22:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053220440890327355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667851059346427914",
+          "start": 0,
+          "username": "hoshi_Asuka0089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053220440890327355",
+    "in_reply_to_user_id": "1667851059346427914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052512978147348577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshi_Asuka0089 不是西林瓶碎了，没啥事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2052512973940543488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHv9rNSbUAAHqfD.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2052512978147348577",
+        "created_at": "2026-05-09T21:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053220440890327355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667851059346427914",
+              "start": 0,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053220440890327355",
+        "in_reply_to_user_id": "1667851059346427914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052512978147348577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshi_Asuka0089 不是西林瓶碎了，没啥事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052512973940543488"
+          ]
+        },
+        "author_id": "1667851059346427914",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052512978147348577",
+        "created_at": "2026-05-07T22:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T23:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052512978147348577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6K4xarxvTi",
+              "end": 38,
+              "expanded_url": "https://x.com/hoshi_Asuka0089/status/2052512978147348577/photo/1",
+              "media_key": "3_2052512973940543488",
+              "start": 15,
+              "url": "https://t.co/6K4xarxvTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052512978147348577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1131,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要为打翻的雌二醇而哭泣（？ https://t.co/6K4xarxvTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 284,
+          "like_count": 1144,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 926
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "あのね、空が青いのってどうやって伝えればいいんだろうね。   \n\n妹妹 @itscatroll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "itscatroll"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "location": "沖ノ鳥島",
+        "name": "🍍🍋飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️🍊🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 866,
+          "like_count": 88488,
+          "listed_count": 4,
+          "media_count": 1107,
+          "tweet_count": 15124
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": false
+      }
+    ]
+  }
+}

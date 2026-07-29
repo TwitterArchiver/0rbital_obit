@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1986202534801821754",
+    "created_at": "2025-11-05T22:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T23:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986202534801821754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1880109814241746944",
+          "start": 3,
+          "username": "fallenleavesw"
+        },
+        {
+          "end": 30,
+          "id": "1100776666194882561",
+          "start": 19,
+          "username": "akiEl3venn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986202534801821754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986134480705233033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fallenleavesw: @akiEl3venn 免费的社会学/教育学/心理学等相关学科综合新研究课题 “The phenomenon of Artificial-Intelligenciphobia among university lecturers” 批判现代…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1986202534801821754",
+        "created_at": "2025-11-05T22:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T23:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986202534801821754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1880109814241746944",
+              "start": 3,
+              "username": "fallenleavesw"
+            },
+            {
+              "end": 30,
+              "id": "1100776666194882561",
+              "start": 19,
+              "username": "akiEl3venn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986202534801821754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986134480705233033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fallenleavesw: @akiEl3venn 免费的社会学/教育学/心理学等相关学科综合新研究课题 “The phenomenon of Artificial-Intelligenciphobia among university lecturers” 批判现代…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880109814241746944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1986115756875010235",
+        "created_at": "2025-11-05T18:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986134480705233033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1100776666194882561",
+              "start": 0,
+              "username": "akiEl3venn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986134480705233033",
+        "in_reply_to_user_id": "1100776666194882561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986115756875010235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiEl3venn 免费的社会学/教育学/心理学等相关学科综合新研究课题 “The phenomenon of Artificial-Intelligenciphobia among university lecturers” 批判现代老师对ai的偏见以及其可能性成因✌️ 下次就写"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫 ｜ 半癫 半疯 半自理 半死 ｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "沈默🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 236,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "非二元pear/坐标多伦多/最爱的人❤️@VentusUta/云 波点 光 也许那里有什么…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "VentusUta"
+              }
+            ]
+          }
+        },
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉🍐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880117301489364992/8cjlM9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 552,
+          "like_count": 25099,
+          "listed_count": 4,
+          "media_count": 434,
+          "tweet_count": 4728
+        },
+        "username": "fallenleavesw",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-27T15:16:23.000Z",
+        "description": "@uoftesports Apex Varsity Manager/Captain || 发现有趣的账号就会关注/回关 || 不是男娘 || ACG weeb || Taking Master’s @uoft || 零审美摄影师, 偶尔拍点飞机 || Banner by 我自己 -树洞@ich1nana7-",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "uoftesports"
+              },
+              {
+                "end": 104,
+                "start": 99,
+                "username": "uoft"
+              },
+              {
+                "end": 153,
+                "start": 143,
+                "username": "ich1nana7"
+              }
+            ]
+          }
+        },
+        "id": "1100776666194882561",
+        "location": "Toronto, Ontario",
+        "name": "akiEl3venn_",
+        "pinned_tweet_id": "1978640484584046673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894304085676789760/Uxw4MxMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 332,
+          "like_count": 6099,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 2182
+        },
+        "username": "akiEl3venn",
+        "verified": false
+      }
+    ]
+  }
+}

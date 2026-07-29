@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1972305898141028371",
+    "created_at": "2025-09-28T14:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T15:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972305898141028371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1736265610911428608",
+          "start": 3,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972305898141028371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972278507352068321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noname2095_: 中國的中學就是欠c4和ied了，多炸炸就好了，炸之前把老師都放進去，學生都放出來"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1972305898141028371",
+        "created_at": "2025-09-28T14:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972305898141028371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1736265610911428608",
+              "start": 3,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972305898141028371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972278507352068321",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noname2095_: 中國的中學就是欠c4和ied了，多炸炸就好了，炸之前把老師都放進去，學生都放出來"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "1972278507352068321",
+        "created_at": "2025-09-28T12:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972278507352068321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1972076146746650954",
+              "start": 41,
+              "url": "https://t.co/nbBcKb7FK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972278507352068321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972076146746650954",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中國的中學就是欠c4和ied了，多炸炸就好了，炸之前把老師都放進去，學生都放出來 https://t.co/nbBcKb7FK7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫                        ｜ 半癫 半疯 半自理 半死 ｜ 可怜无定河边骨 犹是春闺梦里人｜我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 234,
+          "like_count": 814,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 290,
+          "like_count": 3568,
+          "listed_count": 3,
+          "media_count": 242,
+          "tweet_count": 7914
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

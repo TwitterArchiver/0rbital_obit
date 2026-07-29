@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2050824024884969627",
+    "created_at": "2026-05-04T22:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T23:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051424056574918747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1649365408779214848",
+          "start": 0,
+          "username": "bolckAshley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051424056574918747",
+    "in_reply_to_user_id": "1649365408779214848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050824024884969627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bolckAshley 因为乙游男主是小客体a，幻想客体还原进男性身体中就欲望塌陷了。而腐向则变成了更加变态的偷窥和凝视。这和男凝是内部一样的。无论是bg还是bl，在这其间的女性主体是安全的，梦女并不会真的被“男主”产生反向的欲望，而且撤出了异性恋的身体风险。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2050824002885795840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHX9kJzaQAAsc4c.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1902,
+        "media_key": "3_2050824003372412928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHX9kLnbcAAPVTC.jpg",
+        "width": 960
+      },
+      {
+        "height": 1717,
+        "media_key": "3_2050824003846316032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHX9kNYaoAA2b6R.jpg",
+        "width": 960
+      },
+      {
+        "height": 1704,
+        "media_key": "3_2050824005452722176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHX9kTXacAA8qNR.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2050824024884969627",
+        "created_at": "2026-05-04T22:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051424056574918747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051424056574918747",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050824024884969627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley 因为乙游男主是小客体a，幻想客体还原进男性身体中就欲望塌陷了。而腐向则变成了更加变态的偷窥和凝视。这和男凝是内部一样的。无论是bg还是bl，在这其间的女性主体是安全的，梦女并不会真的被“男主”产生反向的欲望，而且撤出了异性恋的身体风险。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050824002885795840",
+            "3_2050824003372412928",
+            "3_2050824003846316032",
+            "3_2050824005452722176"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2050824024884969627",
+        "created_at": "2026-05-03T06:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050824024884969627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dotVFn676",
+              "end": 152,
+              "expanded_url": "https://x.com/bolckAshley/status/2050824024884969627/photo/1",
+              "media_key": "3_2050824002885795840",
+              "start": 129,
+              "url": "https://t.co/7dotVFn676"
+            },
+            {
+              "display_url": "pic.x.com/7dotVFn676",
+              "end": 152,
+              "expanded_url": "https://x.com/bolckAshley/status/2050824024884969627/photo/1",
+              "media_key": "3_2050824003372412928",
+              "start": 129,
+              "url": "https://t.co/7dotVFn676"
+            },
+            {
+              "display_url": "pic.x.com/7dotVFn676",
+              "end": 152,
+              "expanded_url": "https://x.com/bolckAshley/status/2050824024884969627/photo/1",
+              "media_key": "3_2050824003846316032",
+              "start": 129,
+              "url": "https://t.co/7dotVFn676"
+            },
+            {
+              "display_url": "pic.x.com/7dotVFn676",
+              "end": 152,
+              "expanded_url": "https://x.com/bolckAshley/status/2050824024884969627/photo/1",
+              "media_key": "3_2050824005452722176",
+              "start": 129,
+              "url": "https://t.co/7dotVFn676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050824024884969627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 54271,
+          "like_count": 411,
+          "quote_count": 24,
+          "reply_count": 64,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "男性Coser出男性角色也有問題了，牛逼😅\n什麼「國乙法」都來了，有點太奇異搞笑了，我現在突然覺得你國玩Galgame的國男比這幫人可正常多了：起碼人家萬一是incel也不會想出「女性Coser不許出Galgame的女性角色」這種典型的左右腦互搏的東西來😅 https://t.co/7dotVFn676"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 287,
+          "like_count": 1127,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 917
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3253,
+          "following_count": 1975,
+          "like_count": 41175,
+          "listed_count": 20,
+          "media_count": 1514,
+          "tweet_count": 21698
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      }
+    ]
+  }
+}

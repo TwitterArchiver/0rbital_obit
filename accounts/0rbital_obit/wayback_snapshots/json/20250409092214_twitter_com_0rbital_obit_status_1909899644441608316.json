@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1909185997088358896",
+    "created_at": "2025-04-09T09:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T10:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909899644441608316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "873489613934927872",
+          "start": 0,
+          "username": "caviar_sola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909899644441608316",
+    "in_reply_to_user_id": "873489613934927872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909185997088358896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caviar_sola 啤酒馆🤯"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1909185997088358896].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1909185997088358896",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1909185997088358896"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1909185997088358896",
+        "created_at": "2025-04-09T09:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T10:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909899644441608316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "873489613934927872",
+              "start": 0,
+              "username": "caviar_sola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909899644441608316",
+        "in_reply_to_user_id": "873489613934927872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909185997088358896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caviar_sola 啤酒馆🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "当恐惧蔓延到全身",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️ 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 143,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/深柜潜在家暴党/专业自我扭转10余年成为精神ftm（不是）/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1734496818707472726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 239,
+          "like_count": 16972,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2576
+        },
+        "username": "caviar_sola",
+        "verified": false
+      }
+    ]
+  }
+}

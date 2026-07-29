@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1990301328132948112",
+    "created_at": "2025-11-18T02:30:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T03:30:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990608498455949443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884536290005368832",
+          "start": 0,
+          "username": "FGfr_218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990608498455949443",
+    "in_reply_to_user_id": "1884536290005368832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990301328132948112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FGfr_218 因为大夫是老保，该杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1990301328132948112",
+        "created_at": "2025-11-18T02:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990608498455949443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884536290005368832",
+              "start": 0,
+              "username": "FGfr_218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990608498455949443",
+        "in_reply_to_user_id": "1884536290005368832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990301328132948112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FGfr_218 因为大夫是老保，该杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884536290005368832",
+        "conversation_id": "1990301328132948112",
+        "created_at": "2025-11-17T06:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990301328132948112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990301328132948112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13982,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "问问大家，为什么开证的医生跟我说“mtf是百分百的同性恋”，我感觉不对呀，mtf为什么不能喜欢女孩子？？这种东西为什么要卡得这么死｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫 ｜ 半癫 半疯 半自理 半死 ｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "沈默🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 239,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T09:37:26.000Z",
+        "description": "07年/社恐/重度性别.容貌焦虑/泛性恋/无证含糖/二次元/coser/目标赚够手术费/戒od中/加油加油gogogo/坐标河南郑州\n🚪88.88  zfb口令红包/（最近加我的人太多了哇）\n大家每天都要加油哇//好好活着不要死哦",
+        "id": "1884536290005368832",
+        "location": "舞萌国",
+        "name": "雯菓ふわり🏳️‍⚧️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984441327866822659/X7r98E7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 437,
+          "like_count": 1891,
+          "listed_count": 4,
+          "media_count": 114,
+          "tweet_count": 1325
+        },
+        "username": "FGfr_218",
+        "verified": true
+      }
+    ]
+  }
+}

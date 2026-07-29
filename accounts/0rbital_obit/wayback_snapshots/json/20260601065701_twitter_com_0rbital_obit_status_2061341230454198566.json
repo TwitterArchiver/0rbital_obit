@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      }
+    ],
+    "conversation_id": "2061341230454198566",
+    "created_at": "2026-06-01T06:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061341230454198566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1635357921679667215",
+          "start": 3,
+          "username": "watigaucho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061341230454198566",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 496
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060775758885253556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @watigaucho: je suis monté dans le tram lgbt ce matin et j’ai changé de genre en sortant ça peut arriver à n’importe qui faites très att…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2060775754380480512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlYoVGWEAAAMpf.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          }
+        ],
+        "conversation_id": "2061341230454198566",
+        "created_at": "2026-06-01T06:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061341230454198566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1635357921679667215",
+              "start": 3,
+              "username": "watigaucho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061341230454198566",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 496
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060775758885253556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @watigaucho: je suis monté dans le tram lgbt ce matin et j’ai changé de genre en sortant ça peut arriver à n’importe qui faites très att…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060775754380480512"
+          ]
+        },
+        "author_id": "1635357921679667215",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          }
+        ],
+        "conversation_id": "2060775758885253556",
+        "created_at": "2026-05-30T17:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060775758885253556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/831P71OHIK",
+              "end": 153,
+              "expanded_url": "https://x.com/watigaucho/status/2060775758885253556/photo/1",
+              "media_key": "3_2060775754380480512",
+              "start": 130,
+              "url": "https://t.co/831P71OHIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060775758885253556",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 85889,
+          "like_count": 10560,
+          "quote_count": 21,
+          "reply_count": 27,
+          "retweet_count": 496
+        },
+        "reply_settings": "everyone",
+        "text": "je suis monté dans le tram lgbt ce matin et j’ai changé de genre en sortant ça peut arriver à n’importe qui faites très attention https://t.co/831P71OHIK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 306,
+          "like_count": 1231,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-13T19:11:37.000Z",
+        "description": "en pause clope",
+        "id": "1635357921679667215",
+        "location": "Nantes",
+        "name": "mmh viande",
+        "pinned_tweet_id": "2018021723254173751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914003654312439808/UHhVi9XA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 744,
+          "like_count": 90557,
+          "listed_count": 0,
+          "media_count": 751,
+          "tweet_count": 4833
+        },
+        "username": "watigaucho",
+        "verified": false
+      }
+    ]
+  }
+}

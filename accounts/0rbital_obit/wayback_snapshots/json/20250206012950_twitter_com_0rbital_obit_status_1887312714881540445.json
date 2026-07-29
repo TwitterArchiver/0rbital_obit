@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1887312714881540445",
+    "created_at": "2025-02-06T01:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T02:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887312714881540445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1616855396811173888",
+          "start": 3,
+          "username": "HeiseiJyanaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887312714881540445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887203581604077835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HeiseiJyanaku: 我們世代經歷的是\n・短平快的娛樂消解了嚴肅討論\n・演算法將政治立場作為興趣點來運作\n・媒體上的分眾與細分毀滅共識土壤\n・民眾終於開始被科技奴役\n的一個時代\n\n這些現象甚至正在摧毀公民社會，並且找不到解法。\n我很早就在提一定要警惕科技進步，而…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1887312714881540445",
+        "created_at": "2025-02-06T01:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T02:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887312714881540445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1616855396811173888",
+              "start": 3,
+              "username": "HeiseiJyanaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887312714881540445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887203581604077835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HeiseiJyanaku: 我們世代經歷的是\n・短平快的娛樂消解了嚴肅討論\n・演算法將政治立場作為興趣點來運作\n・媒體上的分眾與細分毀滅共識土壤\n・民眾終於開始被科技奴役\n的一個時代\n\n這些現象甚至正在摧毀公民社會，並且找不到解法。\n我很早就在提一定要警惕科技進步，而…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616855396811173888",
+        "conversation_id": "1887203581604077835",
+        "created_at": "2025-02-05T18:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T19:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887203581604077835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/boiledwater/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/boiledwater/status/1887189899817730424",
+              "start": 142,
+              "url": "https://t.co/jFUba3NZgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887203581604077835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887189899817730424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們世代經歷的是\n・短平快的娛樂消解了嚴肅討論\n・演算法將政治立場作為興趣點來運作\n・媒體上的分眾與細分毀滅共識土壤\n・民眾終於開始被科技奴役\n的一個時代\n\n這些現象甚至正在摧毀公民社會，並且找不到解法。\n我很早就在提一定要警惕科技進步，而我現在只想給那些鼓吹機械飛升的人來一巴掌。 https://t.co/jFUba3NZgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "命运能给我片刻的宁静吗",
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "零种类语言拥有者",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819211949097242624/zDuFTTpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 131,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 316
+        },
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T17:49:12.000Z",
+        "description": "悲しみなんか止まらない。ある芸能人/アーティスト。我恐直。*Banner pic was captured from MTV Japan. Icon is Hirate Yurina.",
+        "id": "1616855396811173888",
+        "location": "スカイツリー",
+        "name": "ガラパコス硝子",
+        "pinned_tweet_id": "1878859345099886926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873430780741111808/EeAmSJ71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 266,
+          "like_count": 53305,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 1426
+        },
+        "username": "HeiseiJyanaku",
+        "verified": false
+      }
+    ]
+  }
+}

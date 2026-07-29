@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053699751879798785"
+      ],
+      "media_source_tweet_id": [
+        "2053699756355109151"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "conversation_id": "2053934269530050804",
+    "created_at": "2026-05-11T20:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T21:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053934269530050804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021393118390779904",
+          "start": 3,
+          "username": "zengying1107"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H3kwA2PR5i",
+          "end": 68,
+          "expanded_url": "https://x.com/zengying1107/status/2053699756355109151/photo/1",
+          "media_key": "3_2053699751879798785",
+          "start": 45,
+          "url": "https://t.co/H3kwA2PR5i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053934269530050804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053699756355109151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zengying1107: 小红书热帖：\n在罗森哭被店员赶出去了😂\n真的很日本。 https://t.co/H3kwA2PR5i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053699751879798785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIA1CxoacAE_Dki.jpg",
+        "width": 1056
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053699751879798785"
+          ],
+          "media_source_tweet_id": [
+            "2053699756355109151"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "conversation_id": "2053934269530050804",
+        "created_at": "2026-05-11T20:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053934269530050804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021393118390779904",
+              "start": 3,
+              "username": "zengying1107"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3kwA2PR5i",
+              "end": 68,
+              "expanded_url": "https://x.com/zengying1107/status/2053699756355109151/photo/1",
+              "media_key": "3_2053699751879798785",
+              "start": 45,
+              "url": "https://t.co/H3kwA2PR5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053934269530050804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053699756355109151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zengying1107: 小红书热帖：\n在罗森哭被店员赶出去了😂\n真的很日本。 https://t.co/H3kwA2PR5i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053699751879798785"
+          ]
+        },
+        "author_id": "2021393118390779904",
+        "conversation_id": "2053699756355109151",
+        "created_at": "2026-05-11T04:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053699756355109151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3kwA2PR5i",
+              "end": 50,
+              "expanded_url": "https://x.com/zengying1107/status/2053699756355109151/photo/1",
+              "media_key": "3_2053699751879798785",
+              "start": 27,
+              "url": "https://t.co/H3kwA2PR5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053699756355109151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 525556,
+          "like_count": 835,
+          "quote_count": 8,
+          "reply_count": 237,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "小红书热帖：\n在罗森哭被店员赶出去了😂\n真的很日本。 https://t.co/H3kwA2PR5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 290,
+          "like_count": 1169,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T01:17:42.000Z",
+        "description": "早稻田金融毕业｜TEDx演讲嘉宾｜币圈OG｜fobers u30 china｜34岁退休环游世界｜padel｜网球｜实弹射击｜潜水｜赛车｜摩托｜开船｜冰攀",
+        "id": "2021393118390779904",
+        "name": "曾颖",
+        "pinned_tweet_id": "2021769992740778079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036400185690169349/9HTtvl-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19125,
+          "following_count": 149,
+          "like_count": 509,
+          "listed_count": 48,
+          "media_count": 184,
+          "tweet_count": 748
+        },
+        "username": "zengying1107",
+        "verified": true
+      }
+    ]
+  }
+}

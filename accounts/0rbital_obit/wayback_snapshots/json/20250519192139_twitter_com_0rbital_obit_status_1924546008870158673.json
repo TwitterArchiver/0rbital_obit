@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1924546008870158673",
+    "created_at": "2025-05-19T19:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T20:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924546008870158673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stronghaaa/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/stronghaaa/status/1924016085596361131",
+          "start": 16,
+          "url": "https://t.co/xPwhkWlG1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924546008870158673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924016085596361131",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我给你们授权了吗就这么盯着我？ https://t.co/xPwhkWlG1E"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30673,
+        "height": 720,
+        "media_key": "7_1924016032991072256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1924016032991072256/pu/img/3ciFWnLp2twmuJLJ.jpg",
+        "public_metrics": {
+          "view_count": 463201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924016032991072256/pu/vid/avc1/320x320/hIyTdqNyDqsnUOpT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924016032991072256/pu/vid/avc1/540x540/UH1M4WG2DFrGwmk0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924016032991072256/pu/vid/avc1/720x720/0gpQ6T6WN1k7Bex7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1924016032991072256/pu/pl/LpEtaIgNozyvCgyE.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1924546008870158673",
+        "created_at": "2025-05-19T19:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T20:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924546008870158673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stronghaaa/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/stronghaaa/status/1924016085596361131",
+              "start": 16,
+              "url": "https://t.co/xPwhkWlG1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924546008870158673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924016085596361131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我给你们授权了吗就这么盯着我？ https://t.co/xPwhkWlG1E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1924016032991072256"
+          ]
+        },
+        "author_id": "1697156451784110080",
+        "conversation_id": "1924016085596361131",
+        "created_at": "2025-05-18T08:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T09:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924016085596361131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "funny"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "Reels"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ct6nKxJmE3",
+              "end": 57,
+              "expanded_url": "https://x.com/StrongHaaa/status/1924016085596361131/video/1",
+              "media_key": "7_1924016032991072256",
+              "start": 34,
+              "url": "https://t.co/Ct6nKxJmE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924016085596361131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 353,
+          "impression_count": 918228,
+          "like_count": 1506,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "你以为是你的精心打扮，实际上……😂😂😂 #funny #Reels https://t.co/Ct6nKxJmE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️ 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 159,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T07:57:15.000Z",
+        "description": "loves photography, cheongsam, dancing and traveling.热爱摄影、旗袍、跳舞和旅游。",
+        "id": "1697156451784110080",
+        "location": "Hong Kong",
+        "name": "东方靖",
+        "pinned_tweet_id": "1922819427671638153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762541986115145728/bSz2KdjY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21370,
+          "following_count": 12416,
+          "like_count": 19710,
+          "listed_count": 70,
+          "media_count": 2360,
+          "tweet_count": 3738
+        },
+        "username": "StrongHaaa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1890428225467158826",
+    "created_at": "2025-02-14T15:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T16:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890428225467158826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890428225467158826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我根本没法正视我的过去，我不理解。\n可是我好饿，每天都在饥饿中度过。\n正是我无法理解的过往，塑造了今日的空腹。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1890428225467158826",
+        "created_at": "2025-02-14T15:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T16:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890428225467158826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890428225467158826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我根本没法正视我的过去，我不理解。\n可是我好饿，每天都在饥饿中度过。\n正是我无法理解的过往，塑造了今日的空腹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "太阳过会儿会升起来的吗",
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "如此糊弄三十年",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819211949097242624/zDuFTTpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 130,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 318
+        },
+        "username": "0rbital_obit",
+        "verified": false
+      }
+    ]
+  }
+}

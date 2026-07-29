@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1920664443861582232",
+    "created_at": "2025-05-09T06:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T07:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920725161612919069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741075170603749376",
+          "start": 0,
+          "username": "zhao_tito8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920725161612919069",
+    "in_reply_to_user_id": "1741075170603749376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920664443861582232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao_tito8964 赵书记"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1920664443861582232",
+        "created_at": "2025-05-09T06:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T07:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920725161612919069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741075170603749376",
+              "start": 0,
+              "username": "zhao_tito8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920725161612919069",
+        "in_reply_to_user_id": "1741075170603749376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920664443861582232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao_tito8964 赵书记"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "1920664443861582232",
+        "created_at": "2025-05-09T02:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T03:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920664443861582232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920664443861582232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没人叫我赵指导"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "不得通过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️ 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 148,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "另类佛学极左/Stuckism/万法唯识",
+        "id": "1741075170603749376",
+        "location": "🚪80",
+        "name": "南京酒吐座",
+        "pinned_tweet_id": "1918638231945674900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920400136921882624/0olaO1x7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 883,
+          "like_count": 17764,
+          "listed_count": 2,
+          "media_count": 954,
+          "tweet_count": 11759
+        },
+        "username": "zhao_tito8964",
+        "verified": false
+      }
+    ]
+  }
+}

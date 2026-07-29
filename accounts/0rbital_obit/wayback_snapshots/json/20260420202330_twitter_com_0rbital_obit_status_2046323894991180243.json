@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2046323894991180243",
+    "created_at": "2026-04-20T20:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T21:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046323894991180243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1869440990970556416",
+          "start": 3,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046323894991180243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046033962070688012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnowfairySerina: 请关注我伴侣做完手术仍然被关在男性区域，在没经过本人同意的情况下搜身搜行李，以及碳水不耐受的情况下仍然提供高碳水饮食的事情，谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2046323894991180243",
+        "created_at": "2026-04-20T20:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046323894991180243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1869440990970556416",
+              "start": 3,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046323894991180243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046033962070688012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnowfairySerina: 请关注我伴侣做完手术仍然被关在男性区域，在没经过本人同意的情况下搜身搜行李，以及碳水不耐受的情况下仍然提供高碳水饮食的事情，谢谢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2046033962070688012",
+        "created_at": "2026-04-20T01:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046033962070688012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokyotransmarc…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/tokyotransmarch/status/2045851710716035212",
+              "start": 66,
+              "url": "https://t.co/VmNgNbeEBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046033962070688012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 13452,
+          "like_count": 190,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045851710716035212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请关注我伴侣做完手术仍然被关在男性区域，在没经过本人同意的情况下搜身搜行李，以及碳水不耐受的情况下仍然提供高碳水饮食的事情，谢谢。 https://t.co/VmNgNbeEBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 273,
+          "like_count": 1030,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//雨辰和雪仙永远在一起，永不别离...我们将在星空下重逢...谢谢朋友们的关注。@eztakesin 我们永远是彼此的妻子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "eztakesin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 星空合众国 格维克之境",
+        "name": "✨☘️🌈雨夜辰曦•雪若仙🏳️‍⚧️Together Forever✨",
+        "pinned_tweet_id": "2045836131368161285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 1080,
+          "like_count": 3850,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 5188
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

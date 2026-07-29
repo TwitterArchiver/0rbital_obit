@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1953672592218632276",
+    "created_at": "2025-08-08T04:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T05:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953672592218632276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1748531675573964800",
+          "start": 3,
+          "username": "dingansich8964"
+        },
+        {
+          "end": 32,
+          "id": "914028453174796293",
+          "start": 20,
+          "username": "Ajisai1207_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953672592218632276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953298391875625411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dingansich8964: @Ajisai1207_ 小男娘哭喊：哈……啊啊啊啊……為什麼還不能高潮啊……\n教師：慾望的本質是慾望的再生產！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1953672592218632276",
+        "created_at": "2025-08-08T04:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T05:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953672592218632276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1748531675573964800",
+              "start": 3,
+              "username": "dingansich8964"
+            },
+            {
+              "end": 32,
+              "id": "914028453174796293",
+              "start": 20,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953672592218632276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953298391875625411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dingansich8964: @Ajisai1207_ 小男娘哭喊：哈……啊啊啊啊……為什麼還不能高潮啊……\n教師：慾望的本質是慾望的再生產！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748531675573964800",
+        "conversation_id": "1953081723312337221",
+        "created_at": "2025-08-07T03:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T04:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953298391875625411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "914028453174796293",
+              "start": 0,
+              "username": "Ajisai1207_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953298391875625411",
+        "in_reply_to_user_id": "914028453174796293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1831,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953081723312337221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajisai1207_ 小男娘哭喊：哈……啊啊啊啊……為什麼還不能高潮啊……\n教師：慾望的本質是慾望的再生產！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人 ｜     半癫 半疯 半自理 半死",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 204,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "已工作，生不如死。會發一些枯燥的日常。叫我物物就好。在國外工作。看動漫，健身，填词，聽古典樂。喜欢烹飪、園藝、最近还在看谢林。「だって、私、追いかけるのが好きなんだもの。」喜歡的人是@dingansich8964。電報@DINGANSICH648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "dingansich8964"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "username": "DINGANSICH648"
+              }
+            ]
+          }
+        },
+        "id": "1748531675573964800",
+        "name": "物凝主體",
+        "pinned_tweet_id": "1945457173599072557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897646810052886528/nBKqybTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 64,
+          "like_count": 21762,
+          "listed_count": 0,
+          "media_count": 658,
+          "tweet_count": 6821
+        },
+        "username": "dingansich8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "“做个独立思想的人。”——他们众口一声地讲。\n\n我只是倚在地下室的墙上，偶尔听见古老足音的回响。",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1208130416605093889/y7j-vPpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 788,
+          "like_count": 9401,
+          "listed_count": 10,
+          "media_count": 367,
+          "tweet_count": 4758
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

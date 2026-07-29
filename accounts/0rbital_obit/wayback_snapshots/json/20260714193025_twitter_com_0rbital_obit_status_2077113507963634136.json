@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2077108862746796191",
+    "created_at": "2026-07-14T19:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077113507963634136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077113507963634136",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077108862746796191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 张雪峰老师，我们记得你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2077108859911413760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNfgMrWIAAr1tY.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2077108862746796191",
+        "created_at": "2026-07-14T19:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077113507963634136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077113507963634136",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077108862746796191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 张雪峰老师，我们记得你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077108859911413760"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2077108862746796191",
+        "created_at": "2026-07-14T19:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077108862746796191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gm0yeE6SL0",
+              "end": 46,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2077108862746796191/photo/1",
+              "media_key": "3_2077108859911413760",
+              "start": 23,
+              "url": "https://t.co/gm0yeE6SL0"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2076745387650539708",
+              "start": 47,
+              "url": "https://t.co/IHvj26tZJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077108862746796191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076745387650539708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让gpt画了一个，但为什么这个人看起来要死了 https://t.co/gm0yeE6SL0 https://t.co/IHvj26tZJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 337,
+          "like_count": 1440,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1071
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6569,
+          "following_count": 1083,
+          "like_count": 6261,
+          "listed_count": 11,
+          "media_count": 308,
+          "tweet_count": 3561
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1915902382128697391",
+    "created_at": "2025-04-27T18:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T19:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916563768806457799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2739080844",
+          "start": 0,
+          "username": "HAZENLEE_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916563768806457799",
+    "in_reply_to_user_id": "2739080844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915902382128697391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HAZENLEE_ 然而我的童年是自己做饭才能吃的上饭，等父母做饭的话11点都吃不上"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_1915902363812171782",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpanDItbEAYgxdq.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1915902382128697391",
+        "created_at": "2025-04-27T18:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T19:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916563768806457799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2739080844",
+              "start": 0,
+              "username": "HAZENLEE_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916563768806457799",
+        "in_reply_to_user_id": "2739080844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915902382128697391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HAZENLEE_ 然而我的童年是自己做饭才能吃的上饭，等父母做饭的话11点都吃不上"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915902363812171782"
+          ]
+        },
+        "author_id": "2739080844",
+        "conversation_id": "1915902382128697391",
+        "created_at": "2025-04-25T22:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T23:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915902382128697391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iaE6s9bxHJ",
+              "end": 29,
+              "expanded_url": "https://x.com/HAZENLEE_/status/1915902382128697391/photo/1",
+              "media_key": "3_1915902363812171782",
+              "start": 6,
+              "url": "https://t.co/iaE6s9bxHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915902382128697391",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1110,
+          "impression_count": 2848940,
+          "like_count": 8709,
+          "quote_count": 64,
+          "reply_count": 415,
+          "retweet_count": 346
+        },
+        "reply_settings": "everyone",
+        "text": "心疼剑魔🥹 https://t.co/iaE6s9bxHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "不得通过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️ 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 145,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-17T05:47:55.000Z",
+        "description": "𝙀／𝘼𝙘𝙘｜16年OG 伪Trader真Hodler ｜ 加密信仰传教士已ALL IN BTC+AI｜观点明确从不不马后炮 模棱两可 做交易，我只用https://t.co/b3sMD2LYqA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "OKX.com",
+                "end": 97,
+                "expanded_url": "http://OKX.com",
+                "start": 74,
+                "url": "https://t.co/b3sMD2LYqA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/hazenlee_",
+                "end": 23,
+                "expanded_url": "http://x.com/hazenlee_",
+                "start": 0,
+                "url": "https://t.co/3n0KV0DZBe"
+              }
+            ]
+          }
+        },
+        "id": "2739080844",
+        "location": "距离你5.20Km🚪520/888/1314",
+        "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+        "pinned_tweet_id": "1636869356553658368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896132624940191744/h18Fvuz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23293,
+          "following_count": 2198,
+          "like_count": 15439,
+          "listed_count": 454,
+          "media_count": 1082,
+          "tweet_count": 12487
+        },
+        "url": "https://t.co/3n0KV0DZBe",
+        "username": "HAZENLEE_",
+        "verified": true
+      }
+    ]
+  }
+}

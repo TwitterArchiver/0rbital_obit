@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2058215440669946306",
+    "created_at": "2026-05-25T17:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058962531591270725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667851059346427914",
+          "start": 0,
+          "username": "hoshi_Asuka0089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058962531591270725",
+    "in_reply_to_user_id": "1667851059346427914",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058215440669946306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshi_Asuka0089 可是你一直很努力，很勇敢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2058215440669946306",
+        "created_at": "2026-05-25T17:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058962531591270725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667851059346427914",
+              "start": 0,
+              "username": "hoshi_Asuka0089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058962531591270725",
+        "in_reply_to_user_id": "1667851059346427914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058215440669946306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshi_Asuka0089 可是你一直很努力，很勇敢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667851059346427914",
+        "conversation_id": "2058215440669946306",
+        "created_at": "2026-05-23T15:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058215440669946306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058215440669946306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉在舒适区里泡得太久了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 297,
+          "like_count": 1221,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T11:07:51.000Z",
+        "description": "あのね、空が青いのってどうやって伝えればいいんだろうね。   \n\n妹妹 @itscatroll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "itscatroll"
+              }
+            ]
+          }
+        },
+        "id": "1667851059346427914",
+        "location": "天仓 V",
+        "name": "🍍🍋飛鳥Hoshi🍥 🎻🎹🏳️‍🌈🏳️‍⚧️🍊🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798046942246866945/MsvJ_ZZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 875,
+          "like_count": 88876,
+          "listed_count": 4,
+          "media_count": 1116,
+          "tweet_count": 15232
+        },
+        "username": "hoshi_Asuka0089",
+        "verified": false
+      }
+    ]
+  }
+}

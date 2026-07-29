@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1909673283164790785",
+    "created_at": "2025-04-09T09:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T10:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909900285914284231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "823739846229303296",
+          "start": 0,
+          "username": "wholock1011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909900285914284231",
+    "in_reply_to_user_id": "823739846229303296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909673283164790785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wholock1011 gong都（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1909673283164790785",
+        "created_at": "2025-04-09T09:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T10:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909900285914284231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "823739846229303296",
+              "start": 0,
+              "username": "wholock1011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909900285914284231",
+        "in_reply_to_user_id": "823739846229303296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909673283164790785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wholock1011 gong都（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "823739846229303296",
+        "conversation_id": "1909673283164790785",
+        "created_at": "2025-04-08T18:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T19:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909673283164790785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909673283164790785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路边那么多Gong的竞选牌子\n他又开始了\n我想捡一块儿带回家哈哈哈哈哈\n他什么党派呀？感觉上面也没写"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "当恐惧蔓延到全身",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️ 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 143,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-24T03:50:58.000Z",
+        "description": "Hi, I'm Rusty.🇨🇦 INTJ/Capricorn摩羯座/Pansexual泛性恋FTX/BPD/FemDom/ Switch可s可m/点赞转推狂魔 可以去media媒体看我/ ntr重度爱好者/找绿奴对象中/RPN student/185cm 120kg/🚪30加币 可约可聊天~",
+        "id": "823739846229303296",
+        "location": "CAMH",
+        "name": "Rusty. V 🇨🇦🏳️‍⚧️",
+        "pinned_tweet_id": "1880114715311092040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344676520447496194/CA9B_Q7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 2015,
+          "like_count": 41411,
+          "listed_count": 10,
+          "media_count": 819,
+          "tweet_count": 21741
+        },
+        "username": "wholock1011",
+        "verified": true
+      }
+    ]
+  }
+}

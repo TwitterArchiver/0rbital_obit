@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2041036430940459082",
+    "created_at": "2026-04-06T06:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041036430940459082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1413151000567771146",
+          "start": 3,
+          "username": "Windy_Skyline"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041036430940459082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040919213272105442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Windy_Skyline: 在紫色头像之前，曾经小红书还没现在的用户活跃度时，这群人还曾经把自己的头像包裹着一圈六色彩虹边框，然后嘴里竟然喊的都是要杀性少数，这种事情就一直循环往复，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2041036430940459082",
+        "created_at": "2026-04-06T06:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041036430940459082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1413151000567771146",
+              "start": 3,
+              "username": "Windy_Skyline"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041036430940459082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040919213272105442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Windy_Skyline: 在紫色头像之前，曾经小红书还没现在的用户活跃度时，这群人还曾经把自己的头像包裹着一圈六色彩虹边框，然后嘴里竟然喊的都是要杀性少数，这种事情就一直循环往复，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413151000567771146",
+        "conversation_id": "2040919213272105442",
+        "created_at": "2026-04-05T22:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040919213272105442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Windy_Skyline/…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/Windy_Skyline/status/2040422373179240814",
+              "start": 78,
+              "url": "https://t.co/EWIkScoYIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040919213272105442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在紫色头像之前，曾经小红书还没现在的用户活跃度时，这群人还曾经把自己的头像包裹着一圈六色彩虹边框，然后嘴里竟然喊的都是要杀性少数，这种事情就一直循环往复，\n我在小红书还经常看到一个说法：“当你自己做不到激进地反抗父权时，你唯一能做的是在别人激进反抗的时候不要唱反调”，这种说法经常出现在别人说“我没有不支持反对父权，但你为什么和我爹一样管到我头上”的评论区，然而这个说法出现在我的屏幕上的时候，十次里面有十次都是在放屁，如果你真是什么反抗父权的激进斗士，这句话就是一个你不用说别人就知道的东西，然而这句话所指的那些“激进反抗的斗士”全是一群想入伙父权的，所干的事情都是任何活人从小到大都经历过的父权压迫，这些人和所有强奸犯一样说你自己的外观如何就是为了让人强奸，这些人和所有家长制国家一样希望打死任何不服从的人，这些人和所有家庭和社会单位一样要控制你的一切，反过来还要说自己才是反抗者"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 776,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040422373179240814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在紫色头像之前，曾经小红书还没现在的用户活跃度时，这群人还曾经把自己的头像包裹着一圈六色彩虹边框，然后嘴里竟然喊的都是要杀性少数，这种事情就一直循环往复， https://t.co/EWIkScoYIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 249,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 795
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:00:38.000Z",
+        "description": "1、别来烦我 2、我中文不好，别来挑毛病 以后一部分日常推会放在这个号上面@J_AWindy 3、我不歧视顺直人 4、别来碰瓷 5、如果你不知道你为什么被我block了，那就是你们出现在了不该点赞的推文like/retweet列表里，即使你是我线下认识的人我也不会放你出来 6、侮女词别来我推文互动沾边 7、我没有素质",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "J_AWindy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blackdeath.club",
+                "end": 23,
+                "expanded_url": "http://blackdeath.club/",
+                "start": 0,
+                "url": "https://t.co/VcVji2Z02J"
+              }
+            ]
+          }
+        },
+        "id": "1413151000567771146",
+        "location": "6ft↓",
+        "name": "Partikel 👾",
+        "pinned_tweet_id": "1602731469398573061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928749874175995904/qJJj7FqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 244,
+          "like_count": 2435,
+          "listed_count": 10,
+          "media_count": 3812,
+          "tweet_count": 12973
+        },
+        "url": "https://t.co/VcVji2Z02J",
+        "username": "Windy_Skyline",
+        "verified": true
+      }
+    ]
+  }
+}

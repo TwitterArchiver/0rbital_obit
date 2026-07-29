@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1990355692604239993",
+    "created_at": "2025-11-18T02:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T03:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990606203487936516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947564512984567808",
+          "start": 0,
+          "username": "LINKINGMadoka"
+        },
+        {
+          "end": 23,
+          "id": "1231512727153074177",
+          "start": 15,
+          "username": "wgx0308"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990606203487936516",
+    "in_reply_to_user_id": "1947564512984567808",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990393114654130475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINKINGMadoka @wgx0308 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1990355692604239993",
+        "created_at": "2025-11-18T02:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990606203487936516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947564512984567808",
+              "start": 0,
+              "username": "LINKINGMadoka"
+            },
+            {
+              "end": 23,
+              "id": "1231512727153074177",
+              "start": 15,
+              "username": "wgx0308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990606203487936516",
+        "in_reply_to_user_id": "1947564512984567808",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990393114654130475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINKINGMadoka @wgx0308 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947564512984567808",
+        "conversation_id": "1990355692604239993",
+        "created_at": "2025-11-17T12:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990393114654130475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1231512727153074177",
+              "start": 0,
+              "username": "wgx0308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990393114654130475",
+        "in_reply_to_user_id": "1231512727153074177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6802,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990389219181633768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wgx0308 我也是这样子想的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫 ｜ 半癫 半疯 半自理 半死 ｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "沈默🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 238,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:49:16.000Z",
+        "description": "VTuber预备中｜废萌诗人｜笨蛋｜overdose｜ADHD｜渴望社交｜同类互fo｜渴望成为小天使👼🏻",
+        "id": "1947564512984567808",
+        "location": "天国",
+        "name": "Linking阿圆🍥",
+        "pinned_tweet_id": "1990249512347242549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 592,
+          "like_count": 452,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 337
+        },
+        "username": "LINKINGMadoka",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-23T09:35:06.000Z",
+        "description": "I want to be good soul 想要成为有趣的灵魂，男生，喜欢运动健身，想要和大家做朋友，新的信息回复都会让我高兴很久🥹（互fo会去观察成分，成分复杂抱歉恕我无能为力😢）",
+        "id": "1231512727153074177",
+        "name": "莫寒浪💪🏃🍚🍜（互fo 24h会及时回关）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988677046873235457/cMgyGkAY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 220,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2432
+        },
+        "username": "wgx0308",
+        "verified": false
+      }
+    ]
+  }
+}

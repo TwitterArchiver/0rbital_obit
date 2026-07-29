@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2071075793631912330",
+    "created_at": "2026-06-29T06:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071483071577432414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035882965671215104",
+          "start": 0,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071483071577432414",
+    "in_reply_to_user_id": "2035882965671215104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071075793631912330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_medusozoa 我高中的启明星，我们高中的启明星"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2137,
+        "media_key": "3_2071075791106895872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3wdX_WcAA8C4g.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1034,
+        "media_key": "3_2071075791404695552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3wdZGWgAAqkRD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2071075793631912330",
+        "created_at": "2026-06-29T06:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071483071577432414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071483071577432414",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071075793631912330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa 我高中的启明星，我们高中的启明星"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071075791106895872",
+            "3_2071075791404695552"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2071075793631912330",
+        "created_at": "2026-06-28T03:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T04:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071075793631912330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGLjbgS7k0",
+              "end": 84,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2071075793631912330/photo/1",
+              "media_key": "3_2071075791106895872",
+              "start": 61,
+              "url": "https://t.co/FGLjbgS7k0"
+            },
+            {
+              "display_url": "pic.x.com/FGLjbgS7k0",
+              "end": 84,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2071075793631912330/photo/1",
+              "media_key": "3_2071075791404695552",
+              "start": 61,
+              "url": "https://t.co/FGLjbgS7k0"
+            },
+            {
+              "display_url": "x.com/go1415926/stat…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/go1415926/status/2071073678314315888",
+              "start": 85,
+              "url": "https://t.co/cbtHfMkXqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071075793631912330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11558,
+          "like_count": 108,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071073678314315888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我2018年就在高中做5.17活动了，也在我做的社团公众号写了和翻译了不少女权相关的文章，当时国内女权基本和酷儿是同义的 https://t.co/FGLjbgS7k0 https://t.co/cbtHfMkXqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 322,
+          "like_count": 1355,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n❤️@noaayoyaoaya ⚜️@irisdesombres\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 48,
+                "start": 34,
+                "username": "irisdesombres"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 73,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 50,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2050371873226027013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6073,
+          "following_count": 1032,
+          "like_count": 5435,
+          "listed_count": 10,
+          "media_count": 239,
+          "tweet_count": 2942
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

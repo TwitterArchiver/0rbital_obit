@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2043874977397780541",
+    "created_at": "2026-04-15T04:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044268731195355302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041867910931750912",
+          "start": 0,
+          "username": "Sparrow27ER"
+        },
+        {
+          "end": 23,
+          "id": "994208371040337921",
+          "start": 13,
+          "username": "litztsong"
+        },
+        {
+          "end": 40,
+          "id": "1788485889225834496",
+          "start": 24,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044268731195355302",
+    "in_reply_to_user_id": "2041867910931750912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043936431169790333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sparrow27ER @litztsong @YesterdayOrange 我认为剥夺通讯自由和人身自由就是非法拘禁啊，精卫对于维稳及政治罪太好用了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2043874977397780541",
+        "created_at": "2026-04-15T04:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044268731195355302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041867910931750912",
+              "start": 0,
+              "username": "Sparrow27ER"
+            },
+            {
+              "end": 23,
+              "id": "994208371040337921",
+              "start": 13,
+              "username": "litztsong"
+            },
+            {
+              "end": 40,
+              "id": "1788485889225834496",
+              "start": 24,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044268731195355302",
+        "in_reply_to_user_id": "2041867910931750912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043936431169790333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sparrow27ER @litztsong @YesterdayOrange 我认为剥夺通讯自由和人身自由就是非法拘禁啊，精卫对于维稳及政治罪太好用了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041867910931750912",
+        "conversation_id": "2043874977397780541",
+        "created_at": "2026-04-14T06:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043936431169790333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043936431169790333",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2123,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043874977397780541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 有的确实不允许，尤其是青少年心理/精神问题中心。\n虽然听上去很奇怪，但是临床经验铁证如山，离开手机会让病人精神状态好很多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 273,
+          "like_count": 1013,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T13:19:51.000Z",
+        "description": "",
+        "id": "2041867910931750912",
+        "name": "Sparrow Twenty-Seven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041868871809036290/_desjobr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 526,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "Sparrow27ER",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/leftoid/@misncandy/个人群 https://t.co/16lZFMylhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 151,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 128,
+                "url": "https://t.co/16lZFMylhh"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "2026076790071107861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3158,
+          "following_count": 2042,
+          "like_count": 3596,
+          "listed_count": 17,
+          "media_count": 1618,
+          "tweet_count": 14025
+        },
+        "username": "litztsong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2043569353350914261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11470,
+          "following_count": 4836,
+          "like_count": 86371,
+          "listed_count": 21,
+          "media_count": 2092,
+          "tweet_count": 19018
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

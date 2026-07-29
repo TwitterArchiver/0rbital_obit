@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2042402875196780887",
+    "created_at": "2026-04-10T19:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T20:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042689138168607118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1451898340262645760",
+          "start": 0,
+          "username": "Naiwenel"
+        },
+        {
+          "end": 21,
+          "id": "1810788932210282499",
+          "start": 10,
+          "username": "sidhdbejsu"
+        },
+        {
+          "end": 35,
+          "id": "2009744626924793856",
+          "start": 22,
+          "username": "kuomarintang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042689138168607118",
+    "in_reply_to_user_id": "1451898340262645760",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042582336768762308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiwenel @sidhdbejsu @kuomarintang Tankie are saying  they are not authoritarian？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2042402875196780887",
+        "created_at": "2026-04-10T19:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042689138168607118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1451898340262645760",
+              "start": 0,
+              "username": "Naiwenel"
+            },
+            {
+              "end": 21,
+              "id": "1810788932210282499",
+              "start": 10,
+              "username": "sidhdbejsu"
+            },
+            {
+              "end": 35,
+              "id": "2009744626924793856",
+              "start": 22,
+              "username": "kuomarintang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042689138168607118",
+        "in_reply_to_user_id": "1451898340262645760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042582336768762308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiwenel @sidhdbejsu @kuomarintang Tankie are saying  they are not authoritarian？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451898340262645760",
+        "conversation_id": "2042402875196780887",
+        "created_at": "2026-04-10T12:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042582336768762308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810788932210282499",
+              "start": 0,
+              "username": "sidhdbejsu"
+            },
+            {
+              "end": 25,
+              "id": "2009744626924793856",
+              "start": 12,
+              "username": "kuomarintang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042582336768762308",
+        "in_reply_to_user_id": "1810788932210282499",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042457563942310242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sidhdbejsu @kuomarintang If you mean the KMT flag, yeah\nBut if you mean those LGBT flags, Mao won't anti-LGBT, and most maoist in China do support LGBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 266,
+          "like_count": 950,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-23T13:08:43.000Z",
+        "description": "这里是小涵~希望你能天天开心哦~ | they&them | CS学习中... | 发布的作品默认均遵循GPLv3协议",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "naiwenel.com",
+                "end": 23,
+                "expanded_url": "http://www.naiwenel.com",
+                "start": 0,
+                "url": "https://t.co/pjAQTrYBYG"
+              }
+            ]
+          }
+        },
+        "id": "1451898340262645760",
+        "location": "乌托邦 Utopia ",
+        "name": "小涵Naiwenel",
+        "pinned_tweet_id": "1763787971818594679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027971155374612480/DCwn5VnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5699,
+          "following_count": 317,
+          "like_count": 110278,
+          "listed_count": 14,
+          "media_count": 2205,
+          "tweet_count": 22615
+        },
+        "url": "https://t.co/pjAQTrYBYG",
+        "username": "Naiwenel",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-09T21:31:57.000Z",
+        "description": "",
+        "id": "1810788932210282499",
+        "name": "ggh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911506554454511616/cQoeLluz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 35,
+          "like_count": 15819,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 3406
+        },
+        "username": "sidhdbejsu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T21:50:55.000Z",
+        "description": "digital angel nanocelebrity - CPU-KMT lion - schrodinger's satire, fehlinger's doctrine",
+        "id": "2009744626924793856",
+        "location": "f16 ~ 🇵🇭🇺🇸🏳️‍⚧️🇺🇳🇹🇼",
+        "name": "mari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036681547420680193/g0FkPJRe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 157,
+          "like_count": 14013,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 11317
+        },
+        "username": "kuomarintang",
+        "verified": false
+      }
+    ]
+  }
+}

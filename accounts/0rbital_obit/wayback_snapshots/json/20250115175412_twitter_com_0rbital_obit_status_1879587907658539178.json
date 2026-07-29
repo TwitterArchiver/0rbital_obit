@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1879587907658539178",
+    "created_at": "2025-01-15T17:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T18:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879587907658539178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1616855396811173888",
+          "start": 3,
+          "username": "HeiseiJyanaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879587907658539178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879489616363090239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HeiseiJyanaku: 上了幾天英語課才發現用「Lesbian」這個單字表示我並不合適，用「Sapphic」、「WLW=women loving women」表記多元的女性戀，這兩個單字都比Lesbian更有包容度，我現在知道Queer lesbian到底奇怪在哪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1879587907658539178",
+        "created_at": "2025-01-15T17:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T18:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879587907658539178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1616855396811173888",
+              "start": 3,
+              "username": "HeiseiJyanaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879587907658539178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879489616363090239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HeiseiJyanaku: 上了幾天英語課才發現用「Lesbian」這個單字表示我並不合適，用「Sapphic」、「WLW=women loving women」表記多元的女性戀，這兩個單字都比Lesbian更有包容度，我現在知道Queer lesbian到底奇怪在哪…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616855396811173888",
+        "conversation_id": "1879489616363090239",
+        "created_at": "2025-01-15T11:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T12:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879489616363090239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879489616363090239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 516,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上了幾天英語課才發現用「Lesbian」這個單字表示我並不合適，用「Sapphic」、「WLW=women loving women」表記多元的女性戀，這兩個單字都比Lesbian更有包容度，我現在知道Queer lesbian到底奇怪在哪裡了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "命运能给我片刻的宁静吗",
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "零种类语言拥有者",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819211949097242624/zDuFTTpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 132,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 306
+        },
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T17:49:12.000Z",
+        "description": "【御断】【注意要請】平成歿東横子供。社会障害・双極性障害・境界性人格障害・演技性人格障害・性依存症患者。元風俗女、今歌手務。女性愛猫役。原理主義地雷系。登録不推奨。健常者近付即殺。*Banner pic was captured from MTV Japan. Icon is Hirate Yurina.",
+        "id": "1616855396811173888",
+        "location": "スカイツリー",
+        "name": "バブルばぶばぶ（仕事中）",
+        "pinned_tweet_id": "1878859345099886926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873430780741111808/EeAmSJ71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 257,
+          "like_count": 52440,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 1226
+        },
+        "username": "HeiseiJyanaku",
+        "verified": false
+      }
+    ]
+  }
+}

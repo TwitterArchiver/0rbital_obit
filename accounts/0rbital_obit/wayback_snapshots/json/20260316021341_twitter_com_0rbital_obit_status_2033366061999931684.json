@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Boy's Love category",
+          "id": "1298785075824230401",
+          "name": "BL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2033366061999931684",
+    "created_at": "2026-03-16T02:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T03:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033366061999931684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2289619658",
+          "start": 3,
+          "username": "youquzhiji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033366061999931684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032969319395504639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youquzhiji: 《Alien Stage》圈子的画师 Yufka 因为网暴自杀了。但今天我想说的是之后发生的事。\nYufka 生前画了很多 BL 和 GL 的作品。在她的遗书里，她明确提到希望大家继续分享她的画作（她甚至还为此设了几条定时发送）。她说：“我想让大…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2033366061999931684",
+        "created_at": "2026-03-16T02:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033366061999931684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2289619658",
+              "start": 3,
+              "username": "youquzhiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033366061999931684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032969319395504639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youquzhiji: 《Alien Stage》圈子的画师 Yufka 因为网暴自杀了。但今天我想说的是之后发生的事。\nYufka 生前画了很多 BL 和 GL 的作品。在她的遗书里，她明确提到希望大家继续分享她的画作（她甚至还为此设了几条定时发送）。她说：“我想让大…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2289619658",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2032969319395504639",
+        "created_at": "2026-03-14T23:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T00:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032969319395504639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032969319395504639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 146186,
+          "like_count": 2504,
+          "quote_count": 11,
+          "reply_count": 12,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "《Alien Stage》圈子的画师 Yufka 因为网暴自杀了。但今天我想说的是之后发生的事。\nYufka 生前画了很多 BL 和 GL 的作品。在她的遗书里，她明确提到希望大家继续分享她的画作（她甚至还为此设了几条定时发送）。她说：“我想让大家在想起我的时候，会想起我的画。”\n然而，有人不这么想。（1/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 237,
+          "like_count": 898,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-13T12:39:58.000Z",
+        "description": "在你的个人资料中添加简介",
+        "id": "2289619658",
+        "name": "无聊至极🏳️‍⚧️",
+        "pinned_tweet_id": "1637127694184853507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690381924466937857/gcIObNkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 365,
+          "like_count": 24916,
+          "listed_count": 4,
+          "media_count": 476,
+          "tweet_count": 9007
+        },
+        "username": "youquzhiji",
+        "verified": false
+      }
+    ]
+  }
+}

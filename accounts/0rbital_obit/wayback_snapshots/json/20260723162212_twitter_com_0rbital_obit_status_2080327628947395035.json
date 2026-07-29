@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2080202019751772549",
+    "created_at": "2026-07-23T16:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080327628947395035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1116166983295303685",
+          "start": 0,
+          "username": "miaojiwuwuwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080327628947395035",
+    "in_reply_to_user_id": "1116166983295303685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080202019751772549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaojiwuwuwu 谢谢喵叽姐姐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080201998071431168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5csiQbAAAjlSN.jpg",
+        "width": 1523
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080201998075580416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5csiRaUAAOW3c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2080202019751772549",
+        "created_at": "2026-07-23T16:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080327628947395035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1116166983295303685",
+              "start": 0,
+              "username": "miaojiwuwuwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080327628947395035",
+        "in_reply_to_user_id": "1116166983295303685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080202019751772549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaojiwuwuwu 谢谢喵叽姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080201998071431168",
+            "3_2080201998075580416"
+          ]
+        },
+        "author_id": "1116166983295303685",
+        "conversation_id": "2080202019751772549",
+        "created_at": "2026-07-23T08:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080202019751772549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hI04g5S4WE",
+              "end": 76,
+              "expanded_url": "https://x.com/miaojiwuwuwu/status/2080202019751772549/photo/1",
+              "media_key": "3_2080201998071431168",
+              "start": 53,
+              "url": "https://t.co/hI04g5S4WE"
+            },
+            {
+              "display_url": "pic.x.com/hI04g5S4WE",
+              "end": 76,
+              "expanded_url": "https://x.com/miaojiwuwuwu/status/2080202019751772549/photo/1",
+              "media_key": "3_2080201998075580416",
+              "start": 53,
+              "url": "https://t.co/hI04g5S4WE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080202019751772549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1235,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于把头发剪了，但有点儿剪毁了\n细软发还是不要烫，太容易翻车(-᷅_-᷄)\n两三年的头发捐给癌症的小朋友 https://t.co/hI04g5S4WE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 350,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-11T02:32:01.000Z",
+        "description": "🏳️‍⚧️/📷@miaojismall/生如夏花/有一只妹妹@xuexuemiao/聊天可戳https://t.co/B67R2Qjxjt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "miaojismall"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "xuexuemiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Miaoji",
+                "end": 69,
+                "expanded_url": "https://t.me/Miaoji",
+                "start": 46,
+                "url": "https://t.co/B67R2Qjxjt"
+              }
+            ]
+          }
+        },
+        "id": "1116166983295303685",
+        "location": "Toronto, Ontario",
+        "name": "喵叽",
+        "pinned_tweet_id": "1777205144620245260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1454443662348259334/0Pz6JRuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 823,
+          "like_count": 7849,
+          "listed_count": 5,
+          "media_count": 436,
+          "tweet_count": 1881
+        },
+        "url": "",
+        "username": "miaojiwuwuwu",
+        "verified": false
+      }
+    ]
+  }
+}

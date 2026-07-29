@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1898222651153244462",
+    "created_at": "2025-03-08T04:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-08T05:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898222651153244462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313383273079345152",
+          "start": 3,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898222651153244462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897587349384810697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValeriaEulabeia: 能问出这种问题的人多少沾点……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1898222651153244462",
+        "created_at": "2025-03-08T04:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T05:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898222651153244462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313383273079345152",
+              "start": 3,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898222651153244462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897587349384810697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ValeriaEulabeia: 能问出这种问题的人多少沾点……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313383273079345152",
+        "conversation_id": "1897587349384810697",
+        "created_at": "2025-03-06T09:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T10:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897587349384810697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MikuMEMZ/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/MikuMEMZ/status/1897503487564587010",
+              "start": 16,
+              "url": "https://t.co/h4LxqFCQHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897587349384810697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 25059,
+          "like_count": 251,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897503487564587010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能问出这种问题的人多少沾点…… https://t.co/h4LxqFCQHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "哲学导致死亡，社会学则导致自杀",
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "如此糊弄三十年",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819211949097242624/zDuFTTpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 132,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 332
+        },
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zone2.nessbyte.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://zone2.nessbyte.top/#/register?code=fEQOPAcf",
+                "start": 0,
+                "url": "https://t.co/x655wqqoK7"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1874103313274462335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6277,
+          "following_count": 3127,
+          "like_count": 121216,
+          "listed_count": 15,
+          "media_count": 1969,
+          "tweet_count": 18523
+        },
+        "url": "https://t.co/x655wqqoK7",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

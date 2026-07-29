@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1972304743314919429",
+    "created_at": "2025-09-28T14:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T15:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972304743314919429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1880109814241746944",
+          "start": 3,
+          "username": "fallenleavesw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972304743314919429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971579657486029019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fallenleavesw: 小时候是不大爱吃馒头的。记得有一次放学，街上的小车喇叭里喊着“老面——馒头——”，肚子又饿的厉害，1.5就买了一大包，七八个小馒头。内陷，也不算陷、总之侧面能看到螺旋状的灰色花纹，想来该是另一种面含在里面。盖在一层厚被子里，拿出来时还烫手。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1972304743314919429",
+        "created_at": "2025-09-28T14:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972304743314919429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1880109814241746944",
+              "start": 3,
+              "username": "fallenleavesw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972304743314919429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971579657486029019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fallenleavesw: 小时候是不大爱吃馒头的。记得有一次放学，街上的小车喇叭里喊着“老面——馒头——”，肚子又饿的厉害，1.5就买了一大包，七八个小馒头。内陷，也不算陷、总之侧面能看到螺旋状的灰色花纹，想来该是另一种面含在里面。盖在一层厚被子里，拿出来时还烫手。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880109814241746944",
+        "conversation_id": "1971579657486029019",
+        "created_at": "2025-09-26T14:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971579657486029019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971579657486029019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小时候是不大爱吃馒头的。记得有一次放学，街上的小车喇叭里喊着“老面——馒头——”，肚子又饿的厉害，1.5就买了一大包，七八个小馒头。内陷，也不算陷、总之侧面能看到螺旋状的灰色花纹，想来该是另一种面含在里面。盖在一层厚被子里，拿出来时还烫手。\n\n即便这样，我还是不爱吃馒头的，没两口就噎得慌。相比之下，同是碳水的小吃，白糖烧饼、锅盔、炊饼一类的，要有滋味的多。更别提糖画，辣条，“南京板鸭”，“cici棒”；有趣的，或者又便宜解馋的。\n\n学校门口以前有卖“武大郎烧饼”，一种死面擀开的饼皮，撒上肉末在油锅里煎。临了加上鸡柳香肠生菜，再刷一层酱… 油纸一盛，拿在手上走着吃，到家刚好吃完、甚至太饱，吃不下晚饭。\n\n父亲那边是北方人，虽只有爷爷是黑土地上长出来的、但无论如何，吃面的习惯留了下来。父亲的手艺很不错，是家常的、也习惯重油盐，好下饭。但懒得做饭时，会去买一袋馒头，顺带些咸菜凉菜，有时是牛肉牛骨，有时候时酸甜口，或卤的素菜。回来飞一锅番茄蛋花汤，开着电视一块儿就着吃了。\n\n老实说，这也不算“对付一餐”，如何说来还是不错的；甚至我不爱吃白面，父亲会给我买两个包子。我心里只想着，“又吃不上热菜了”，馒头包子，特别是放了一会儿的，在我这里总是噎着慌。喝两口汤顺顺，每次吃完肚子里像有石头，嘴里也没什么滋味。\n\n想到童年、少年。总像一场梦，仿佛我随时可以为它添点东西，又捉摸不定。这真是发生过的吗？这真是我的过去吗？怎么与如今的我看上去那样远、那样不可思议。我记得那张吃饭的茶几最后换掉丢掉了，是换电视还是换沙发的时候… 总之，客厅的电视随着网络淡出了家庭… 除了有点绿色的玻璃，弯着的撑子，我也不太想得起来了。\n\n如今主动吃起馒头来，干净快碳，就个水煮蛋吃。早餐，就健身前慌忙地吃一个，然后去挥汗如雨。却在不觉得不是滋味，反而觉得“这白面馒头真香”，“哇，好甜”。发的粗糙，发的气孔；和唇齿间的触感让人觉得真不赖，比起棉花糖一类的，软硬大小塞在嘴里都叫人满足。也不再觉得噎了，总之配一瓶红牛啊，咖啡啊，茶之类的、吃完便有能量动起来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 571,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候是不大爱吃馒头的。记得有一次放学，街上的小车喇叭里喊着“老面——馒头——”，肚子又饿的厉害，1.5就买了一大包，七八个小馒头。内陷，也不算陷、总之侧面能看到螺旋状的灰色花纹，想来该是另一种面含在里面。盖在一层厚被子里，拿出来时还烫手。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫                        ｜ 半癫 半疯 半自理 半死 ｜ 可怜无定河边骨 犹是春闺梦里人｜我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 233,
+          "like_count": 810,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T04:28:13.000Z",
+        "description": "非二元pear/坐标多伦多/最爱的人❤️@VentusUta/云 波点 光 也许那里有什么…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "VentusUta"
+              }
+            ]
+          }
+        },
+        "id": "1880109814241746944",
+        "location": "Toronto, Ontario",
+        "name": "枯葉🍐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880117301489364992/8cjlM9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 534,
+          "like_count": 23104,
+          "listed_count": 4,
+          "media_count": 384,
+          "tweet_count": 4295
+        },
+        "username": "fallenleavesw",
+        "verified": true
+      }
+    ]
+  }
+}

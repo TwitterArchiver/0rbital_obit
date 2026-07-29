@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2059875553054966104",
+    "created_at": "2026-05-28T18:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060071874961297469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1836256614200020992",
+          "start": 0,
+          "username": "DimSumAgain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060071874961297469",
+    "in_reply_to_user_id": "1836256614200020992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059875553054966104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DimSumAgain 现在还有档期吗(´Д` )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2059875553054966104",
+        "created_at": "2026-05-28T18:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060071874961297469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1836256614200020992",
+              "start": 0,
+              "username": "DimSumAgain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060071874961297469",
+        "in_reply_to_user_id": "1836256614200020992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059875553054966104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DimSumAgain 现在还有档期吗(´Д` )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836256614200020992",
+        "conversation_id": "2059875553054966104",
+        "created_at": "2026-05-28T05:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059875553054966104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dimsumagain/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/dimsumagain/status/2059116413575721164",
+              "start": 11,
+              "url": "https://t.co/UNCiTrhVWw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059875553054966104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059116413575721164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六月仅剩6.26周末 https://t.co/UNCiTrhVWw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 299,
+          "like_count": 1226,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-18T04:12:07.000Z",
+        "description": "西雅图旅游地陪 | 新晋银趴组织者 | ENFJ-T | 业余私房摄影师，微单出废片专业户 | 友跨顺男·大车将翻 | 性取向是直的，接受女生/伪娘/TS | 雷达关键字：丝袜",
+        "id": "1836256614200020992",
+        "location": "Seattle, WA",
+        "name": "點心DimSum",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009374805200404480/aib-p8ZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1019,
+          "like_count": 7735,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 584
+        },
+        "username": "DimSumAgain",
+        "verified": true
+      }
+    ]
+  }
+}

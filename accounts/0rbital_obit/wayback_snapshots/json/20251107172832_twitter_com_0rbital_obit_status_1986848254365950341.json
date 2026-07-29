@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1986431960991080760",
+    "created_at": "2025-11-07T17:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T18:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986848254365950341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986848254365950341",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986431960991080760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 奉旨开盒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1986431584577490944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E5AGlbkAAIp6e.jpg",
+        "width": 575
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1986431584560685056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E5AGhbIAAbaK3.jpg",
+        "width": 575
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1986431584548073472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5E5AGeasAAMVXB.jpg",
+        "width": 575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1986431960991080760",
+        "created_at": "2025-11-07T17:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986848254365950341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986848254365950341",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986431960991080760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 奉旨开盒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986431584577490944",
+            "3_1986431584560685056",
+            "3_1986431584548073472"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1986431960991080760",
+        "created_at": "2025-11-06T13:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T14:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986431960991080760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqItZLNEhh",
+              "end": 79,
+              "expanded_url": "https://x.com/FurinaDF/status/1986431960991080760/photo/1",
+              "media_key": "3_1986431584577490944",
+              "start": 56,
+              "url": "https://t.co/YqItZLNEhh"
+            },
+            {
+              "display_url": "pic.x.com/YqItZLNEhh",
+              "end": 79,
+              "expanded_url": "https://x.com/FurinaDF/status/1986431960991080760/photo/1",
+              "media_key": "3_1986431584560685056",
+              "start": 56,
+              "url": "https://t.co/YqItZLNEhh"
+            },
+            {
+              "display_url": "pic.x.com/YqItZLNEhh",
+              "end": 79,
+              "expanded_url": "https://x.com/FurinaDF/status/1986431960991080760/photo/1",
+              "media_key": "3_1986431584548073472",
+              "start": 56,
+              "url": "https://t.co/YqItZLNEhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986431960991080760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 284411,
+          "like_count": 1121,
+          "quote_count": 10,
+          "reply_count": 69,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "2025年11月，多名小红书内部人员，在某Telegram频道贩卖个人信息\n\n他们自称爱党爱国，三观正，有底线 https://t.co/YqItZLNEhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫 ｜ 半癫 半疯 半自理 半死 ｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "沈默🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 236,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "我是河南人，不是中国人@yongchuTaffyOwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "yongchuTaffyOwO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwenc…",
+                "end": 23,
+                "expanded_url": "http://t.me/langrenxinwenchonglangtv",
+                "start": 0,
+                "url": "https://t.co/69nE3RLjhg"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "Oregon",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60405,
+          "following_count": 2372,
+          "like_count": 29744,
+          "listed_count": 168,
+          "media_count": 7531,
+          "tweet_count": 12111
+        },
+        "url": "https://t.co/69nE3RLjhg",
+        "username": "FurinaDF",
+        "verified": false
+      }
+    ]
+  }
+}

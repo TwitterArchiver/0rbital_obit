@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1976133854738977153",
+    "created_at": "2025-11-18T02:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T03:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990609405251850524"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990609405251850524",
+    "in_reply_to_user_id": "1781621357014286336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976133854738977153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永生对你们来说真的有意义吗？活着对你们有意义吗？生活对你们有意义吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_1976133850762706944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2yjRGtWAAAL_ZJ.jpg",
+        "width": 1274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1976133854738977153",
+        "created_at": "2025-11-18T02:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990609405251850524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990609405251850524",
+        "in_reply_to_user_id": "1781621357014286336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976133854738977153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永生对你们来说真的有意义吗？活着对你们有意义吗？生活对你们有意义吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976133850762706944"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "conversation_id": "1976133854738977153",
+        "created_at": "2025-10-09T03:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T04:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976133854738977153"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Benny NemerofskyRamsay",
+              "probability": 0.8793,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SjCcrJkAMw",
+              "end": 57,
+              "expanded_url": "https://x.com/0rbital_obit/status/1976133854738977153/photo/1",
+              "media_key": "3_1976133850762706944",
+              "start": 34,
+              "url": "https://t.co/SjCcrJkAMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976133854738977153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Subtitled \nBenny NemerofskyRamsay https://t.co/SjCcrJkAMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫 ｜ 半癫 半疯 半自理 半死 ｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "沈默🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 239,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      }
+    ]
+  }
+}

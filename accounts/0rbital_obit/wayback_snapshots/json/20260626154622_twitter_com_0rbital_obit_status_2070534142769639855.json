@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2070110590752997493",
+    "created_at": "2026-06-26T15:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070534142769639855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "792526628249341952",
+          "start": 0,
+          "username": "flyingfish_twi2"
+        },
+        {
+          "end": 31,
+          "id": "1285577648861659137",
+          "start": 17,
+          "username": "vanillaCitron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070534142769639855",
+    "in_reply_to_user_id": "792526628249341952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070112288468779392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flyingfish_twi2 @vanillaCitron 讲个笑话，我的高中校长把学校里面会贴的那些中外名人名言，破折号后面名字全改成自己的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2070110590752997493",
+        "created_at": "2026-06-26T15:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070534142769639855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "792526628249341952",
+              "start": 0,
+              "username": "flyingfish_twi2"
+            },
+            {
+              "end": 31,
+              "id": "1285577648861659137",
+              "start": 17,
+              "username": "vanillaCitron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070534142769639855",
+        "in_reply_to_user_id": "792526628249341952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070112288468779392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flyingfish_twi2 @vanillaCitron 讲个笑话，我的高中校长把学校里面会贴的那些中外名人名言，破折号后面名字全改成自己的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "792526628249341952",
+        "conversation_id": "2070110590752997493",
+        "created_at": "2026-06-25T11:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070112288468779392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1285577648861659137",
+              "start": 0,
+              "username": "vanillaCitron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070112288468779392",
+        "in_reply_to_user_id": "1285577648861659137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5527,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070110590752997493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vanillaCitron 直接把领导的脸 P 上去好了，好令人无语的做法，感觉从骨子里不尊重同学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 320,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1010
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-30T00:40:47.000Z",
+        "description": "飞鱼 he/him 中文 or English 点赞和评论非常能代表本人观点 ENFP-A 喜茶梦男（已奔现）华住会梦男（形婚）霸王茶姬梦男（备胎）一般太鼓鼓众（里鬼 9 以内都可以整两下）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gemini.google.com",
+                "end": 23,
+                "expanded_url": "http://gemini.google.com",
+                "start": 0,
+                "url": "https://t.co/WH8BYNN8zJ"
+              }
+            ]
+          }
+        },
+        "id": "792526628249341952",
+        "name": "_",
+        "pinned_tweet_id": "1934619908350017937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004466078064562177/7QglegI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 685,
+          "like_count": 13792,
+          "listed_count": 1,
+          "media_count": 504,
+          "tweet_count": 5787
+        },
+        "url": "https://t.co/WH8BYNN8zJ",
+        "username": "flyingfish_twi2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T14:10:31.000Z",
+        "description": "🏳️‍🌈 / 🌠 ex. Tencent design designer /  SSC 26 Winner / iOS developer, made @PieceletNeoDB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "PieceletNeoDB"
+              }
+            ]
+          }
+        },
+        "id": "1285577648861659137",
+        "location": "出逃要趕早 | 🐘 @lcandy@m.cmx.im",
+        "name": "citron🍢🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686744469415104512/OFA-6nhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4699,
+          "following_count": 1132,
+          "like_count": 19739,
+          "listed_count": 22,
+          "media_count": 947,
+          "tweet_count": 7079
+        },
+        "url": "",
+        "username": "vanillaCitron",
+        "verified": false
+      }
+    ]
+  }
+}

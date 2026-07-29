@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2079397442261557411",
+    "created_at": "2026-07-21T22:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T23:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079700150256046421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1995266194576961536",
+          "start": 0,
+          "username": "skyseafor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079700150256046421",
+    "in_reply_to_user_id": "1995266194576961536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079397442261557411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skyseafor 有没有万达附近的变成摄魂了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2543,
+        "media_key": "3_2079397427032018944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuA8Vka0AAabxe.jpg",
+        "width": 1841
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2079397442261557411",
+        "created_at": "2026-07-21T22:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079700150256046421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1995266194576961536",
+              "start": 0,
+              "username": "skyseafor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079700150256046421",
+        "in_reply_to_user_id": "1995266194576961536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079397442261557411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skyseafor 有没有万达附近的变成摄魂了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079397427032018944"
+          ]
+        },
+        "author_id": "1995266194576961536",
+        "conversation_id": "2079397442261557411",
+        "created_at": "2026-07-21T02:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079397442261557411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qNOZDq2sOl",
+              "end": 38,
+              "expanded_url": "https://x.com/skyseafor/status/2079397442261557411/photo/1",
+              "media_key": "3_2079397427032018944",
+              "start": 15,
+              "url": "https://t.co/qNOZDq2sOl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079397442261557411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4643,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "万达广场被改造成医院了😅😅😅 https://t.co/qNOZDq2sOl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 350,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T22:58:47.000Z",
+        "description": "原号被封禁了@520illusion \n/ 永远的南京城 / 08 / 许你岁岁平安 / 不是女生 不像男生 / 终将成为你 / 顺直勿扰 我的门槛你过不起",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "520illusion"
+              }
+            ]
+          }
+        },
+        "id": "1995266194576961536",
+        "location": "宁波大学医学院",
+        "name": "sky ill",
+        "pinned_tweet_id": "2069767708934332850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062149149957718016/xZjcwonh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 221,
+          "like_count": 1206,
+          "listed_count": 1,
+          "media_count": 390,
+          "tweet_count": 834
+        },
+        "url": "",
+        "username": "skyseafor",
+        "verified": true
+      }
+    ]
+  }
+}

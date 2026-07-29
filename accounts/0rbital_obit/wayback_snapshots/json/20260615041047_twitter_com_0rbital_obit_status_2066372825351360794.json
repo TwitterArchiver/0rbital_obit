@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2066168668778553726",
+    "created_at": "2026-06-15T04:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066372825351360794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032516808951902208",
+          "start": 0,
+          "username": "Jeffrey20011221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066372825351360794",
+    "in_reply_to_user_id": "2032516808951902208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066168668778553726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jeffrey20011221 没事的 我目前还没见到谁打出事情过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2066168668778553726",
+        "created_at": "2026-06-15T04:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066372825351360794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032516808951902208",
+              "start": 0,
+              "username": "Jeffrey20011221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066372825351360794",
+        "in_reply_to_user_id": "2032516808951902208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066168668778553726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jeffrey20011221 没事的 我目前还没见到谁打出事情过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032516808951902208",
+        "conversation_id": "2066168668778553726",
+        "created_at": "2026-06-14T14:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066168668778553726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066168668778553726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天真是蠢到家了🥹，打日雌忘记回抽了，打了一半才想起来😭。想起来后回抽没血，希望没事😐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 314,
+          "like_count": 1301,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 993
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-13T18:00:14.000Z",
+        "description": "@Jeff12212001 转生\nMTF in progress 🏳️‍⚧️\nAlways happy to make more trans friends.\nCollecting fountain pens 🖋️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Jeff12212001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rheafeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rheafeng",
+                "start": 0,
+                "url": "https://t.co/UHHpuDe2ED"
+              }
+            ]
+          }
+        },
+        "id": "2032516808951902208",
+        "location": "Birmingham, England",
+        "name": "Jeff姐夫",
+        "pinned_tweet_id": "2053223857318764933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052498282249650180/swsCu4G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 485,
+          "like_count": 1784,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/UHHpuDe2ED",
+        "username": "Jeffrey20011221",
+        "verified": false
+      }
+    ]
+  }
+}

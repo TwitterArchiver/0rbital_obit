@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2062564884181864945",
+    "created_at": "2026-06-05T07:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062792802598101175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430976467131842564",
+          "start": 0,
+          "username": "_muguopick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062792802598101175",
+    "in_reply_to_user_id": "1430976467131842564",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062564884181864945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_muguopick 辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062564860521848833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-z0A2boAEqUWn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062564860509253632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-z0AzbcAA4MxW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2062564860484071424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-z0AtbMAA2tBP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2062564884181864945",
+        "created_at": "2026-06-05T07:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062792802598101175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430976467131842564",
+              "start": 0,
+              "username": "_muguopick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062792802598101175",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062564884181864945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_muguopick 辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062564860521848833",
+            "3_2062564860509253632",
+            "3_2062564860484071424"
+          ]
+        },
+        "author_id": "1430976467131842564",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062564884181864945",
+        "created_at": "2026-06-04T15:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062564884181864945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjvINhepfE",
+              "end": 38,
+              "expanded_url": "https://x.com/_muguopick/status/2062564884181864945/photo/1",
+              "media_key": "3_2062564860521848833",
+              "start": 15,
+              "url": "https://t.co/EjvINhepfE"
+            },
+            {
+              "display_url": "pic.x.com/EjvINhepfE",
+              "end": 38,
+              "expanded_url": "https://x.com/_muguopick/status/2062564884181864945/photo/1",
+              "media_key": "3_2062564860509253632",
+              "start": 15,
+              "url": "https://t.co/EjvINhepfE"
+            },
+            {
+              "display_url": "pic.x.com/EjvINhepfE",
+              "end": 38,
+              "expanded_url": "https://x.com/_muguopick/status/2062564884181864945/photo/1",
+              "media_key": "3_2062564860484071424",
+              "start": 15,
+              "url": "https://t.co/EjvINhepfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062564884181864945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "色调表示今天的心情 社交好累 https://t.co/EjvINhepfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 303,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-26T19:32:44.000Z",
+        "description": "🎵l//虚弱人格@infps_offical //神出鬼没的奇怪乐手//工作室试运营中 录混工作接单中 请私信//精神康复中 在尝试努力活着 提问箱📪https://t.co/AW5EeaIkPh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "infps_offical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/_muguopick",
+                "end": 98,
+                "expanded_url": "https://ngl.link/_muguopick",
+                "start": 75,
+                "url": "https://t.co/AW5EeaIkPh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/7344798",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/7344798",
+                "start": 0,
+                "url": "https://t.co/0GBs33t2fR"
+              }
+            ]
+          }
+        },
+        "id": "1430976467131842564",
+        "location": "北京",
+        "name": "Ringoo Kino树莓果酱🐭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955993400064532483/IIKW_npp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 446,
+          "like_count": 2861,
+          "listed_count": 4,
+          "media_count": 529,
+          "tweet_count": 3175
+        },
+        "url": "https://t.co/0GBs33t2fR",
+        "username": "_muguopick",
+        "verified": false
+      }
+    ]
+  }
+}

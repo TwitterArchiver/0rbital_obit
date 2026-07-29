@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1936089193043968177",
+    "created_at": "2025-06-21T08:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T09:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936347267352736218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1434608964629639168",
+          "start": 0,
+          "username": "Sharkie_4005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936347267352736218",
+    "in_reply_to_user_id": "1434608964629639168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936089193043968177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sharkie_4005 e2导致疤痕体质和皮肤脆弱，无解的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1936089193043968177",
+        "created_at": "2025-06-21T08:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T09:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936347267352736218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1434608964629639168",
+              "start": 0,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936347267352736218",
+        "in_reply_to_user_id": "1434608964629639168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936089193043968177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sharkie_4005 e2导致疤痕体质和皮肤脆弱，无解的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434608964629639168",
+        "conversation_id": "1936089193043968177",
+        "created_at": "2025-06-20T15:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T16:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936089193043968177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936089193043968177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太軟了，手很容易受傷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 191,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "19 years old | Speak 🇹🇼🏴󠁧󠁢󠁥󠁮󠁧󠁿⚜️｜海豹姊姊@Siyan_Xiao| 頻道：https://t.co/qdWrorhEHa｜楓葉永恆🍁｜一隻在遊蕩的小空白",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Siyan_Xiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+VzcKaxiMaJ5mM…",
+                "end": 76,
+                "expanded_url": "https://t.me/+VzcKaxiMaJ5mM2E8",
+                "start": 53,
+                "url": "https://t.co/qdWrorhEHa"
+              }
+            ]
+          }
+        },
+        "id": "1434608964629639168",
+        "location": "Québec, Dominion of Canada",
+        "name": "Atlantic_Sea Shark ♚ 🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 474,
+          "like_count": 32083,
+          "listed_count": 2,
+          "media_count": 480,
+          "tweet_count": 8197
+        },
+        "username": "Sharkie_4005",
+        "verified": false
+      }
+    ]
+  }
+}

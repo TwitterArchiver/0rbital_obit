@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1964134285998174380",
+    "created_at": "2025-09-06T01:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T02:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964134285998174380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "56112917",
+          "start": 3,
+          "username": "monkeyalien"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964134285998174380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953444869495456256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @monkeyalien: 重庆一位乳腺癌患者，多发转移，没药能用了。花了快八万用了六支最新的单抗，居然效果不错。去求一家药代，药代用灰色手段免费给患者拿了七十多支药，给患者续了两年命。前几个月，患者说她得了药物相关并发症，举报，大家都重罚，路堵死了。\n她本应走在两年前，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1964134285998174380",
+        "created_at": "2025-09-06T01:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T02:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964134285998174380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "56112917",
+              "start": 3,
+              "username": "monkeyalien"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964134285998174380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953444869495456256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @monkeyalien: 重庆一位乳腺癌患者，多发转移，没药能用了。花了快八万用了六支最新的单抗，居然效果不错。去求一家药代，药代用灰色手段免费给患者拿了七十多支药，给患者续了两年命。前几个月，患者说她得了药物相关并发症，举报，大家都重罚，路堵死了。\n她本应走在两年前，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "56112917",
+        "conversation_id": "1953444869495456256",
+        "created_at": "2025-08-07T13:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T14:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953444869495456256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953444869495456256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 647423,
+          "like_count": 2341,
+          "quote_count": 38,
+          "reply_count": 214,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "重庆一位乳腺癌患者，多发转移，没药能用了。花了快八万用了六支最新的单抗，居然效果不错。去求一家药代，药代用灰色手段免费给患者拿了七十多支药，给患者续了两年命。前几个月，患者说她得了药物相关并发症，举报，大家都重罚，路堵死了。\n她本应走在两年前，或者再花八十多万续命，但她选择举报。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人 ｜ 半癫 半疯 半自理 半死                ｜                                 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 230,
+          "like_count": 802,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-12T15:19:16.000Z",
+        "description": "Attending of Emergency Medicine",
+        "id": "56112917",
+        "location": "Wulugu, Ghana",
+        "name": "Mr.VE折太郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/782833596163760129/8VSEvnXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14418,
+          "following_count": 345,
+          "like_count": 2535,
+          "listed_count": 108,
+          "media_count": 466,
+          "tweet_count": 3774
+        },
+        "username": "monkeyalien",
+        "verified": false
+      }
+    ]
+  }
+}

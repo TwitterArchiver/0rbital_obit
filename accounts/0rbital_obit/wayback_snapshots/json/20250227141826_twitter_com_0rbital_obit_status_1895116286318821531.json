@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1895116286318821531",
+    "created_at": "2025-02-27T14:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T15:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895116286318821531"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1895116286318821531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还是和你们保持距离吧，我会把你们都害死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1895116286318821531",
+        "created_at": "2025-02-27T14:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T15:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895116286318821531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895116286318821531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是和你们保持距离吧，我会把你们都害死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "哲学导致死亡，社会学则导致自杀",
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "如此糊弄三十年",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819211949097242624/zDuFTTpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 131,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 324
+        },
+        "username": "0rbital_obit",
+        "verified": false
+      }
+    ]
+  }
+}

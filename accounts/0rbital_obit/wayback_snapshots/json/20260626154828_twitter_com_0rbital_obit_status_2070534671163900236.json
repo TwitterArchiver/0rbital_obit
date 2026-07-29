@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2070534671163900236",
+    "created_at": "2026-06-26T15:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070534671163900236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 3,
+          "username": "lumigj02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070534671163900236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070116408235839909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "RT @lumigj02: 原推15天没复活了，感觉是刑事拘留了\n\n当然，拘留=荣誉勋章"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2070534671163900236",
+        "created_at": "2026-06-26T15:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070534671163900236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 3,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070534671163900236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070116408235839909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "RT @lumigj02: 原推15天没复活了，感觉是刑事拘留了\n\n当然，拘留=荣誉勋章"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2070116408235839909",
+        "created_at": "2026-06-25T12:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070116408235839909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oyama_Mihari01…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Oyama_Mihari01/status/2064610093895913932",
+              "start": 31,
+              "url": "https://t.co/9zsWJIh697"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070116408235839909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 36442,
+          "like_count": 189,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064610093895913932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "原推15天没复活了，感觉是刑事拘留了\n\n当然，拘留=荣誉勋章 https://t.co/9zsWJIh697"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 321,
+          "like_count": 1339,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1011
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14yo 兼职糖商 或许是xyn喵（\n\n永远喜欢的妹妹 @JR_YamanoteE235\n可爱猫娘女仆(?) @leetfs1\n笨蛋肥鸟姐姐 @hoshi_asuka0089\n校友大猫猫 @_furryfur_\n? @hobartr6\n\n永久锁推账号 @itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "JR_YamanoteE235"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "leetfs1"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "hobartr6"
+              },
+              {
+                "end": 137,
+                "start": 126,
+                "username": "itsCatRoll"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺(糖商)(尽量tg,私信有时不通知)➡️",
+        "name": "猫打滚时会自己卷起来的",
+        "pinned_tweet_id": "2069481018130940322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070446858384949249/QuzCTJO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4124,
+          "following_count": 825,
+          "like_count": 4233,
+          "listed_count": 9,
+          "media_count": 81,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

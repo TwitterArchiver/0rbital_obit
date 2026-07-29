@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2056449828591202512",
+    "created_at": "2026-05-18T19:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T20:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056449828591202512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1205748134892032000",
+          "start": 3,
+          "username": "Liquid_Pomelo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "致各位关心WDK Purple的读者朋友： 由于不可抗力，2021年7月6日晚，我们的公众号被迫停止运营。如果您还愿意继续关注我们的动向，或者想... 读者来信，秀恩爱警告 这是一个我无从讲述也似乎无可讲述的故事。 在终于成为许多同性情侣中的一对的那天晚上，我们松松地拉着手走在北三环。某总用一种... 声明：本文首发于歪脑， 点击这里跳转原文 关锦鹏曾在1998年拍过纪录片《男生女相》，用80分钟篇幅讲述华语电影在当代如何讲述、描绘性别，率先用... 编者按 我们于5月2日发布了有关517的故事征集推送，最终收到21份投稿，共15644字。每一份文字都是一位小伙伴不容亵渎的生命体验，也是对p... 题图：《谁先爱上他的》剧照 原文 / Tsang EY-H. A “Phoenix” rising from the ashes: China’s Tongqi, marriage fraud, and resistance. Br J Sociol. 2021;00:1–15. 翻译 / Lorne Dieterling, Aspirin 校对 /",
+          "display_url": "wdkpurple.lgbt",
+          "end": 65,
+          "expanded_url": "https://wdkpurple.lgbt/",
+          "start": 42,
+          "status": 200,
+          "title": "Purple",
+          "unwound_url": "https://wdkpurple.lgbt/",
+          "url": "https://t.co/gP6Er0YWOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056449828591202512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056367327243911241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liquid_Pomelo: purple新账号：紫外发散\n网络备份（旧）：https://t.co/gP6Er0YWOw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2056449828591202512",
+        "created_at": "2026-05-18T19:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056449828591202512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1205748134892032000",
+              "start": 3,
+              "username": "Liquid_Pomelo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "致各位关心WDK Purple的读者朋友： 由于不可抗力，2021年7月6日晚，我们的公众号被迫停止运营。如果您还愿意继续关注我们的动向，或者想... 读者来信，秀恩爱警告 这是一个我无从讲述也似乎无可讲述的故事。 在终于成为许多同性情侣中的一对的那天晚上，我们松松地拉着手走在北三环。某总用一种... 声明：本文首发于歪脑， 点击这里跳转原文 关锦鹏曾在1998年拍过纪录片《男生女相》，用80分钟篇幅讲述华语电影在当代如何讲述、描绘性别，率先用... 编者按 我们于5月2日发布了有关517的故事征集推送，最终收到21份投稿，共15644字。每一份文字都是一位小伙伴不容亵渎的生命体验，也是对p... 题图：《谁先爱上他的》剧照 原文 / Tsang EY-H. A “Phoenix” rising from the ashes: China’s Tongqi, marriage fraud, and resistance. Br J Sociol. 2021;00:1–15. 翻译 / Lorne Dieterling, Aspirin 校对 /",
+              "display_url": "wdkpurple.lgbt",
+              "end": 65,
+              "expanded_url": "https://wdkpurple.lgbt/",
+              "start": 42,
+              "status": 200,
+              "title": "Purple",
+              "unwound_url": "https://wdkpurple.lgbt/",
+              "url": "https://t.co/gP6Er0YWOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056449828591202512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056367327243911241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liquid_Pomelo: purple新账号：紫外发散\n网络备份（旧）：https://t.co/gP6Er0YWOw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205748134892032000",
+        "conversation_id": "2056367327243911241",
+        "created_at": "2026-05-18T13:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056367327243911241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "致各位关心WDK Purple的读者朋友： 由于不可抗力，2021年7月6日晚，我们的公众号被迫停止运营。如果您还愿意继续关注我们的动向，或者想... 读者来信，秀恩爱警告 这是一个我无从讲述也似乎无可讲述的故事。 在终于成为许多同性情侣中的一对的那天晚上，我们松松地拉着手走在北三环。某总用一种... 声明：本文首发于歪脑， 点击这里跳转原文 关锦鹏曾在1998年拍过纪录片《男生女相》，用80分钟篇幅讲述华语电影在当代如何讲述、描绘性别，率先用... 编者按 我们于5月2日发布了有关517的故事征集推送，最终收到21份投稿，共15644字。每一份文字都是一位小伙伴不容亵渎的生命体验，也是对p... 题图：《谁先爱上他的》剧照 原文 / Tsang EY-H. A “Phoenix” rising from the ashes: China’s Tongqi, marriage fraud, and resistance. Br J Sociol. 2021;00:1–15. 翻译 / Lorne Dieterling, Aspirin 校对 /",
+              "display_url": "wdkpurple.lgbt",
+              "end": 46,
+              "expanded_url": "https://wdkpurple.lgbt/",
+              "start": 23,
+              "status": 200,
+              "title": "Purple",
+              "unwound_url": "https://wdkpurple.lgbt/",
+              "url": "https://t.co/gP6Er0YWOw"
+            },
+            {
+              "display_url": "x.com/0rbital_obit/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/0rbital_obit/status/2056108826420486145",
+              "start": 47,
+              "url": "https://t.co/UyEsZTm05i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056367327243911241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6204,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056108826420486145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "purple新账号：紫外发散\n网络备份（旧）：https://t.co/gP6Er0YWOw https://t.co/UyEsZTm05i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 291,
+          "like_count": 1200,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-14T07:15:41.000Z",
+        "description": "Queer🌈 可以叫我柚子w 讓世界變得冒犯一點/不適請及時退出 Major in Linguistics, Chinese writings & Philology. 🐺Un seul ou plusieurs loups? in an open relationship.",
+        "id": "1205748134892032000",
+        "name": "西柚气泡水♿️北京",
+        "pinned_tweet_id": "1822914979151925622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976650947766923264/YzYh7QJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12121,
+          "following_count": 4115,
+          "like_count": 15994,
+          "listed_count": 20,
+          "media_count": 838,
+          "tweet_count": 5490
+        },
+        "username": "Liquid_Pomelo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079746487030878208",
+        "3_2079746487043387392"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "conversation_id": "2079746492173099353",
+    "created_at": "2026-07-22T01:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079746492173099353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I6XJWOFdzo",
+          "end": 26,
+          "expanded_url": "https://x.com/0rbital_obit/status/2079746492173099353/photo/1",
+          "media_key": "3_2079746487030878208",
+          "start": 3,
+          "url": "https://t.co/I6XJWOFdzo"
+        },
+        {
+          "display_url": "pic.x.com/I6XJWOFdzo",
+          "end": 26,
+          "expanded_url": "https://x.com/0rbital_obit/status/2079746492173099353/photo/1",
+          "media_key": "3_2079746487043387392",
+          "start": 3,
+          "url": "https://t.co/I6XJWOFdzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079746492173099353",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水割 https://t.co/I6XJWOFdzo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079746487030878208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy-aTZXkAAMH_J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079746487043387392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNy-aTcWcAA4tjc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079746487030878208",
+            "3_2079746487043387392"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "conversation_id": "2079746492173099353",
+        "created_at": "2026-07-22T01:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079746492173099353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6XJWOFdzo",
+              "end": 26,
+              "expanded_url": "https://x.com/0rbital_obit/status/2079746492173099353/photo/1",
+              "media_key": "3_2079746487030878208",
+              "start": 3,
+              "url": "https://t.co/I6XJWOFdzo"
+            },
+            {
+              "display_url": "pic.x.com/I6XJWOFdzo",
+              "end": 26,
+              "expanded_url": "https://x.com/0rbital_obit/status/2079746492173099353/photo/1",
+              "media_key": "3_2079746487043387392",
+              "start": 3,
+              "url": "https://t.co/I6XJWOFdzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079746492173099353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水割 https://t.co/I6XJWOFdzo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 352,
+          "like_count": 1528,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1097
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      }
+    ]
+  }
+}

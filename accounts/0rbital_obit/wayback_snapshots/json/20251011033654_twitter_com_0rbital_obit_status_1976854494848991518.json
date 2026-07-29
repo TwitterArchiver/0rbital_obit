@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1976456646504439908",
+    "created_at": "2025-10-11T03:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T04:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976854494848991518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1568588474705653766",
+          "start": 0,
+          "username": "wasd1181118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976854494848991518",
+    "in_reply_to_user_id": "1568588474705653766",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976456646504439908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@wasd1181118 kawaii ！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4000,
+        "height": 960,
+        "media_key": "13_1976456588362948608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1976456588362948608/img/QAfIWcFan1WClEBE.jpg",
+        "public_metrics": {
+          "view_count": 580
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976456588362948608/vid/avc1/320x426/gYoFjZ9K2iSGIR56.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976456588362948608/vid/avc1/480x640/YQb4yJH16Rhr2tu7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1976456588362948608/vid/avc1/720x960/VYlW2nnwiBuyPFHm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1976456588362948608/pl/RqSsRzQz9kf14oD-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1976456646504439908",
+        "created_at": "2025-10-11T03:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T04:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976854494848991518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1568588474705653766",
+              "start": 0,
+              "username": "wasd1181118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976854494848991518",
+        "in_reply_to_user_id": "1568588474705653766",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976456646504439908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@wasd1181118 kawaii ！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1976456588362948608"
+          ]
+        },
+        "author_id": "1568588474705653766",
+        "conversation_id": "1976456646504439908",
+        "created_at": "2025-10-10T01:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T02:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976456646504439908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ru3WSD8DPL",
+              "end": 28,
+              "expanded_url": "https://x.com/wasd1181118/status/1976456646504439908/video/1",
+              "media_key": "13_1976456588362948608",
+              "start": 5,
+              "url": "https://t.co/Ru3WSD8DPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976456646504439908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3001,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我好可爱 https://t.co/Ru3WSD8DPL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫                        ｜ 半癫 半疯 半自理 半死 ｜ 可怜无定河边骨 犹是春闺梦里人｜我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 233,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T13:14:13.000Z",
+        "description": "",
+        "id": "1568588474705653766",
+        "name": "苄达明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975722493643268096/-IqbO4i1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6730,
+          "following_count": 1482,
+          "like_count": 9608,
+          "listed_count": 15,
+          "media_count": 118,
+          "tweet_count": 2822
+        },
+        "username": "wasd1181118",
+        "verified": false
+      }
+    ]
+  }
+}

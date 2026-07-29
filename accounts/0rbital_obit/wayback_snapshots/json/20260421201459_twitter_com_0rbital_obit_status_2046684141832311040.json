@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2046411150120935760",
+    "created_at": "2026-04-21T20:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T21:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046684141832311040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032715306632884224",
+          "start": 0,
+          "username": "omgnowihave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046684141832311040",
+    "in_reply_to_user_id": "2032715306632884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046411150120935760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihave 《私自买药》 我们从未有过身体的处置权"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1021,
+        "media_key": "3_2046411068533284864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZQBkRaoAA1A5x.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2046411150120935760",
+        "created_at": "2026-04-21T20:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T21:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046684141832311040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032715306632884224",
+              "start": 0,
+              "username": "omgnowihave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046684141832311040",
+        "in_reply_to_user_id": "2032715306632884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046411150120935760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihave 《私自买药》 我们从未有过身体的处置权"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046411068533284864"
+          ]
+        },
+        "author_id": "2032715306632884224",
+        "conversation_id": "2046411150120935760",
+        "created_at": "2026-04-21T02:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046411150120935760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "王先生告诉记者，他儿子今年13岁，正在读初一。“上个月底，孩子在学校表现有点反常，不愿意上厕所，老师经过检查，发现他课桌里有不少激素类药品。”这一发现让王先生大为吃惊，在他的追问下，才得知孩子从今年7月份开始，偷偷摸摸在药店购买了螺内酯片、黄体酮和戊酸雌二醇片（商品名为补佳乐），而且长时间超剂量服用，目前身体和心理都出现了严重的问题。 “在我们的追问下才知道，孩子身体开始发育，有一些生理上的变化，但是他内心很抗拒，所以通过网络查到了有些药物可以缓解他的焦虑，吃了以后身体会舒服，就去药店买药了。”王先生说，可是这些都是处方药，没有医生的处方是不能随便销售的。“孩子才13岁，平时都是穿校服的，药店的销售人员居然把药卖给他了，而且还不止一家药店！”王先生非常气愤。 据了解，戊酸雌二醇片是处方药，适用于绝经后的更年期症状，用以弥补雌激素不足。螺内酯片则有抑制雄激素的作用。“我们发现问题以后，马上带孩子去医院检查，已经发现孩子有乳房发育、性器官萎缩等现象，这让我们都快崩溃了！”王先生说，孩子同时还伴有严重的心理问题，烦躁易怒，并且有自残倾向，学习成绩也一落千丈。孩子的母亲李女士最近只好请假在家，全力照顾孩子。",
+              "display_url": "shobserver.cn/wx/detail.do?i…",
+              "end": 29,
+              "expanded_url": "https://www.shobserver.cn/wx/detail.do?id=557150",
+              "images": [
+                {
+                  "height": 1280,
+                  "url": "https://pbs.twimg.com/news_img/2046625079774330880/ZJW2esuZ?format=jpg&name=orig",
+                  "width": 614
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2046625079774330880/ZJW2esuZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 6,
+              "status": 200,
+              "title": "“我的孩子算是被毁了！”宁波一家长崩溃，涉事药店已被立案！",
+              "unwound_url": "https://www.shobserver.cn/wx/detail.do?id=557150",
+              "url": "https://t.co/2fbJ2G3di0"
+            },
+            {
+              "display_url": "pic.x.com/0eZw8YMPkE",
+              "end": 53,
+              "expanded_url": "https://x.com/omgnowihave/status/2046411150120935760/photo/1",
+              "media_key": "3_2046411068533284864",
+              "start": 30,
+              "url": "https://t.co/0eZw8YMPkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046411150120935760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 20443,
+          "like_count": 123,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哪位推友(\nhttps://t.co/2fbJ2G3di0 https://t.co/0eZw8YMPkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 278,
+          "like_count": 1039,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T07:08:06.000Z",
+        "description": "2009/12/24 | 座标台中 | 炸柜王 | \n 旧帐号 @omgnowihavefish（被冻结了）\n@xiohunggu251015(被删了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "omgnowihavefish"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "xiohunggu251015"
+              }
+            ]
+          }
+        },
+        "id": "2032715306632884224",
+        "name": "黄瓜",
+        "pinned_tweet_id": "2044992333293490310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032716573929340928/3UpIyBpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 686,
+          "like_count": 4580,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1163
+        },
+        "username": "omgnowihave",
+        "verified": false
+      }
+    ]
+  }
+}

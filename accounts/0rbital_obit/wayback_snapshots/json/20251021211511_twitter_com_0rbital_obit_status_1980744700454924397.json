@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980463548770775040"
+      ],
+      "media_source_tweet_id": [
+        "1980463561261592602"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "conversation_id": "1980744700454924397",
+    "created_at": "2025-10-21T21:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T22:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980744700454924397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1568588474705653766",
+          "start": 3,
+          "username": "wasd1181118"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4oMk6XkJPC",
+          "end": 40,
+          "expanded_url": "https://x.com/wasd1181118/status/1980463561261592602/photo/1",
+          "media_key": "3_1980463548770775040",
+          "start": 17,
+          "url": "https://t.co/4oMk6XkJPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980744700454924397",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980463561261592602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wasd1181118: https://t.co/4oMk6XkJPC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980744700454924397].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980744700454924397",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980744700454924397"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980463548770775040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wFGssXcAA25Lk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980463548770775040"
+          ]
+        },
+        "author_id": "1568588474705653766",
+        "conversation_id": "1980463561261592602",
+        "created_at": "2025-10-21T02:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T03:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980463561261592602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4oMk6XkJPC",
+              "end": 23,
+              "expanded_url": "https://x.com/wasd1181118/status/1980463561261592602/photo/1",
+              "media_key": "3_1980463548770775040",
+              "start": 0,
+              "url": "https://t.co/4oMk6XkJPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980463561261592602",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1340,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4oMk6XkJPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫 ｜ 半癫 半疯 半自理 半死 ｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "沈默🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 232,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T13:14:13.000Z",
+        "description": "",
+        "id": "1568588474705653766",
+        "location": "🚪100/299/435   助力主播攒学费",
+        "name": "中出中出中出",
+        "pinned_tweet_id": "1980327552452587975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978161997633159168/d-HQ6-qL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6838,
+          "following_count": 1481,
+          "like_count": 9638,
+          "listed_count": 15,
+          "media_count": 125,
+          "tweet_count": 2856
+        },
+        "username": "wasd1181118",
+        "verified": false
+      }
+    ]
+  }
+}

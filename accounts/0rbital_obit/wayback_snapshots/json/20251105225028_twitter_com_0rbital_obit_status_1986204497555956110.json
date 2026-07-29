@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1985710459383943221",
+    "created_at": "2025-11-05T22:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T23:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986204497555956110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1718896922277314560",
+          "start": 0,
+          "username": "yihui_indie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986204497555956110",
+    "in_reply_to_user_id": "1718896922277314560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985710459383943221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yihui_indie 在豆瓣小站和虾米都倒下的现在，虾米的尸体被瓜分后，中文互联网的音乐平台也看不见什么出路了。可悲的阿里模式害死了虾米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985710443932106759",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46pIMVbQAc-KJ1.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1985710459383943221",
+        "created_at": "2025-11-05T22:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T23:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986204497555956110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1718896922277314560",
+              "start": 0,
+              "username": "yihui_indie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986204497555956110",
+        "in_reply_to_user_id": "1718896922277314560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985710459383943221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yihui_indie 在豆瓣小站和虾米都倒下的现在，虾米的尸体被瓜分后，中文互联网的音乐平台也看不见什么出路了。可悲的阿里模式害死了虾米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985710443932106759"
+          ]
+        },
+        "author_id": "1718896922277314560",
+        "conversation_id": "1985710459383943221",
+        "created_at": "2025-11-04T14:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T15:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985710459383943221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MjJTg9cvJ",
+              "end": 110,
+              "expanded_url": "https://x.com/yihui_indie/status/1985710459383943221/photo/1",
+              "media_key": "3_1985710443932106759",
+              "start": 87,
+              "url": "https://t.co/3MjJTg9cvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985710459383943221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 44755,
+          "like_count": 138,
+          "quote_count": 5,
+          "reply_count": 71,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "作为QQ音乐的VIP会员，刚才打开首页这个底部弹框加载了5 秒。\n\n这5秒钟的时间里，我看着「看广告加金币」那几个字。\n\n内心一直在问自己：我对产品的理解力是不是约等于零？ https://t.co/3MjJTg9cvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫 ｜ 半癫 半疯 半自理 半死 ｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "沈默🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 236,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:45:42.000Z",
+        "description": "我的AI编程课(https://t.co/HVZn3ItASW) |B站up主 | 分享创造 + 无限迭代ing",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yihui.flowus.cn",
+                "end": 31,
+                "expanded_url": "https://yihui.flowus.cn",
+                "start": 8,
+                "url": "https://t.co/HVZn3ItASW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "happyaicoding.com",
+                "end": 23,
+                "expanded_url": "https://happyaicoding.com",
+                "start": 0,
+                "url": "https://t.co/9ftg2pTRTj"
+              }
+            ]
+          }
+        },
+        "id": "1718896922277314560",
+        "location": "Hong Kong",
+        "name": "熠辉 Indie",
+        "pinned_tweet_id": "1951139280472182828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804848821702377472/fSfFlGTf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38294,
+          "following_count": 713,
+          "like_count": 2695,
+          "listed_count": 319,
+          "media_count": 1021,
+          "tweet_count": 4279
+        },
+        "url": "https://t.co/9ftg2pTRTj",
+        "username": "yihui_indie",
+        "verified": true
+      }
+    ]
+  }
+}

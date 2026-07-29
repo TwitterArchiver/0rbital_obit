@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2073793761751236812",
+    "created_at": "2026-07-06T20:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T21:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074223887286411556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1930261854510821388",
+          "start": 0,
+          "username": "xingyunxiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074223887286411556",
+    "in_reply_to_user_id": "1930261854510821388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073793761751236812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingyunxiya 不行！血债血偿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2073793761751236812",
+        "created_at": "2026-07-06T20:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T21:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074223887286411556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1930261854510821388",
+              "start": 0,
+              "username": "xingyunxiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074223887286411556",
+        "in_reply_to_user_id": "1930261854510821388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073793761751236812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingyunxiya 不行！血债血偿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930261854510821388",
+        "conversation_id": "2073793761751236812",
+        "created_at": "2026-07-05T15:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073793761751236812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073793761751236812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15113,
+          "like_count": 107,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你们的关心，但恐怕即便成年，只要他们不点头，窝也是跨不出去半步的（信托协议，监护人代签，退出支付20%违约金，一个家族的，窝付不起，以后也付不起）我谈过短如几年的，也谈过长达一天的，结束吧，挺好，他们想要的嘛，窝也不霍霍人家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 328,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-04T13:54:46.000Z",
+        "description": "破茧成蝶，终见光芒\nOVER：2026/07/05",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furina.blog",
+                "end": 23,
+                "expanded_url": "http://furina.blog",
+                "start": 0,
+                "url": "https://t.co/N99BSLWgjU"
+              }
+            ]
+          }
+        },
+        "id": "1930261854510821388",
+        "location": "東京 渋谷区",
+        "name": "星云稀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261955450941441/fsBaETTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 82,
+          "like_count": 1980,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/N99BSLWgjU",
+        "username": "xingyunxiya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044234778413584384",
+        "3_2044234778459664384"
+      ],
+      "media_source_tweet_id": [
+        "2044234783442530478",
+        "2044234783442530478"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "conversation_id": "2044476807995404404",
+    "created_at": "2026-04-15T18:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T19:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044476807995404404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2TdhJM2Kaq",
+          "end": 128,
+          "expanded_url": "https://x.com/amber_toffee/status/2044234783442530478/photo/1",
+          "media_key": "3_2044234778413584384",
+          "start": 105,
+          "url": "https://t.co/2TdhJM2Kaq"
+        },
+        {
+          "display_url": "pic.x.com/2TdhJM2Kaq",
+          "end": 128,
+          "expanded_url": "https://x.com/amber_toffee/status/2044234783442530478/photo/1",
+          "media_key": "3_2044234778459664384",
+          "start": 105,
+          "url": "https://t.co/2TdhJM2Kaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044476807995404404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044234783442530478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 从巴特勒到李银河都干过类似的事情，太正常了；早期酷儿理论最擅长的就是把跨性别者（尤其是跨女！）的日常生活提炼成某种激进隐喻，再拿自己挪用发明出来的这套东西批判跨性别不够进步 https://t.co/2TdhJM2Kaq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2044234778413584384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6UszzXUAA5MhA.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1565,
+        "media_key": "3_2044234778459664384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6Usz-WcAAGctv.jpg",
+        "width": 1174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044234778413584384",
+            "3_2044234778459664384"
+          ],
+          "media_source_tweet_id": [
+            "2044234783442530478",
+            "2044234783442530478"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "conversation_id": "2044476807995404404",
+        "created_at": "2026-04-15T18:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044476807995404404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TdhJM2Kaq",
+              "end": 128,
+              "expanded_url": "https://x.com/amber_toffee/status/2044234783442530478/photo/1",
+              "media_key": "3_2044234778413584384",
+              "start": 105,
+              "url": "https://t.co/2TdhJM2Kaq"
+            },
+            {
+              "display_url": "pic.x.com/2TdhJM2Kaq",
+              "end": 128,
+              "expanded_url": "https://x.com/amber_toffee/status/2044234783442530478/photo/1",
+              "media_key": "3_2044234778459664384",
+              "start": 105,
+              "url": "https://t.co/2TdhJM2Kaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044476807995404404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044234783442530478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 从巴特勒到李银河都干过类似的事情，太正常了；早期酷儿理论最擅长的就是把跨性别者（尤其是跨女！）的日常生活提炼成某种激进隐喻，再拿自己挪用发明出来的这套东西批判跨性别不够进步 https://t.co/2TdhJM2Kaq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044234778413584384",
+            "3_2044234778459664384"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2044234783442530478",
+        "created_at": "2026-04-15T02:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044234783442530478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TdhJM2Kaq",
+              "end": 110,
+              "expanded_url": "https://x.com/amber_toffee/status/2044234783442530478/photo/1",
+              "media_key": "3_2044234778413584384",
+              "start": 87,
+              "url": "https://t.co/2TdhJM2Kaq"
+            },
+            {
+              "display_url": "pic.x.com/2TdhJM2Kaq",
+              "end": 110,
+              "expanded_url": "https://x.com/amber_toffee/status/2044234783442530478/photo/1",
+              "media_key": "3_2044234778459664384",
+              "start": 87,
+              "url": "https://t.co/2TdhJM2Kaq"
+            },
+            {
+              "display_url": "x.com/annregato1500/…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/annregato1500/status/2044211852855652713",
+              "start": 111,
+              "url": "https://t.co/0Wxjdpc4HP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044234783442530478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 9728,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044211852855652713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从巴特勒到李银河都干过类似的事情，太正常了；早期酷儿理论最擅长的就是把跨性别者（尤其是跨女！）的日常生活提炼成某种激进隐喻，再拿自己挪用发明出来的这套东西批判跨性别不够进步 https://t.co/2TdhJM2Kaq https://t.co/0Wxjdpc4HP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 273,
+          "like_count": 1017,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24555,
+          "following_count": 2736,
+          "like_count": 40728,
+          "listed_count": 12,
+          "media_count": 607,
+          "tweet_count": 21743
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

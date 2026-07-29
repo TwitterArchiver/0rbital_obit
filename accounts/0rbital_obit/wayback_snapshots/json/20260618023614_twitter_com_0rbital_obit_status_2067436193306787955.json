@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067218805991129088"
+      ],
+      "media_source_tweet_id": [
+        "2067219097604272516"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "conversation_id": "2067436193306787955",
+    "created_at": "2026-06-18T02:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067436193306787955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1797235518574612480",
+          "start": 3,
+          "username": "Sumire03_30"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MxsUVdGNyH",
+          "end": 59,
+          "expanded_url": "https://x.com/Sumire03_30/status/2067219097604272516/video/1",
+          "media_key": "13_2067218805991129088",
+          "start": 36,
+          "url": "https://t.co/MxsUVdGNyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067436193306787955",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067219097604272516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sumire03_30: オフショ\n汗で滑るレベルだった…！！ https://t.co/MxsUVdGNyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11533,
+        "height": 1920,
+        "media_key": "13_2067218805991129088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067218805991129088/img/gU0DTvPytE0_MFvJ.jpg",
+        "public_metrics": {
+          "view_count": 20654
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067218805991129088/vid/avc1/320x568/QEEBzCzy6h3vkT_2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067218805991129088/pl/L7OVYKTf_jvFVT6F.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067218805991129088/vid/avc1/720x1280/Dbd-s_jyvufDaN5H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067218805991129088/vid/avc1/480x852/r08JTwr-936F5h0h.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067218805991129088/vid/avc1/1080x1920/XNXyMpCLw_a15zYc.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067218805991129088"
+          ],
+          "media_source_tweet_id": [
+            "2067219097604272516"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "conversation_id": "2067436193306787955",
+        "created_at": "2026-06-18T02:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067436193306787955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1797235518574612480",
+              "start": 3,
+              "username": "Sumire03_30"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxsUVdGNyH",
+              "end": 59,
+              "expanded_url": "https://x.com/Sumire03_30/status/2067219097604272516/video/1",
+              "media_key": "13_2067218805991129088",
+              "start": 36,
+              "url": "https://t.co/MxsUVdGNyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067436193306787955",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067219097604272516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sumire03_30: オフショ\n汗で滑るレベルだった…！！ https://t.co/MxsUVdGNyH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067218805991129088"
+          ]
+        },
+        "author_id": "1797235518574612480",
+        "conversation_id": "2067219097604272516",
+        "created_at": "2026-06-17T12:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067219097604272516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxsUVdGNyH",
+              "end": 42,
+              "expanded_url": "https://x.com/Sumire03_30/status/2067219097604272516/video/1",
+              "media_key": "13_2067218805991129088",
+              "start": 19,
+              "url": "https://t.co/MxsUVdGNyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067219097604272516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 573,
+          "impression_count": 39745,
+          "like_count": 2102,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "オフショ\n汗で滑るレベルだった…！！ https://t.co/MxsUVdGNyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 319,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 999
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-02T11:56:59.000Z",
+        "description": "𝐿𝑎𝑡𝑒𝑥 ⟡ 𝐶𝑜𝑠𝑝𝑙𝑎𝑦 ┊ 𝐵𝑎𝑠𝑒𝑑 𝑖𝑛 𝑇𝑎𝑖𝑤𝑎𝑛 ┊ 𝑷𝒂𝒕𝒓𝒆𝒐𝒏 https://t.co/vmVfqNE5zt ┊ 𝑭𝒂𝒏𝒕𝒊𝒂 https://t.co/CquE8U7drp┊かわいい服とおいしいのだいすき♡",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Sumire03_30",
+                "end": 67,
+                "expanded_url": "http://patreon.com/Sumire03_30",
+                "start": 44,
+                "url": "https://t.co/vmVfqNE5zt"
+              },
+              {
+                "display_url": "fantia.jp/sumire03_30",
+                "end": 100,
+                "expanded_url": "http://fantia.jp/sumire03_30",
+                "start": 77,
+                "url": "https://t.co/CquE8U7drp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/xxSUMIRExx",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/xxSUMIRExx",
+                "start": 0,
+                "url": "https://t.co/3OpwQcdv6k"
+              }
+            ]
+          }
+        },
+        "id": "1797235518574612480",
+        "name": "菫",
+        "pinned_tweet_id": "2012092684509528563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017637100494180352/Aus6plCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85290,
+          "following_count": 520,
+          "like_count": 9971,
+          "listed_count": 378,
+          "media_count": 296,
+          "tweet_count": 8337
+        },
+        "url": "https://t.co/3OpwQcdv6k",
+        "username": "Sumire03_30",
+        "verified": true
+      }
+    ]
+  }
+}

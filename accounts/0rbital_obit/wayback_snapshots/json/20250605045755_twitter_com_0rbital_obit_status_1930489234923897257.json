@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1929904961275691204",
+    "created_at": "2025-06-05T04:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T05:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930489234923897257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401733664682102786",
+          "start": 0,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930489234923897257",
+    "in_reply_to_user_id": "1401733664682102786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929904961275691204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mukdengise 调教我👈( ̀⌄ ́)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1354,
+        "media_key": "3_1929904948936093699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshmU3OasAMiLyT.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1929904961275691204",
+        "created_at": "2025-06-05T04:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T05:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930489234923897257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930489234923897257",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929904961275691204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 调教我👈( ̀⌄ ́)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929904948936093699"
+          ]
+        },
+        "author_id": "1401733664682102786",
+        "conversation_id": "1929904961275691204",
+        "created_at": "2025-06-03T14:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929904961275691204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XK9H6rxVtl",
+              "end": 37,
+              "expanded_url": "https://x.com/mukdengise/status/1929904961275691204/photo/1",
+              "media_key": "3_1929904948936093699",
+              "start": 14,
+              "url": "https://t.co/XK9H6rxVtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929904961275691204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4209,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继操死哥后的第二个：调教哥 https://t.co/XK9H6rxVtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 176,
+          "like_count": 502,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "东海渥集巫女/IG: ilhajugvn/looking for our Chalice and fighting against the Blade/裏：@fulgiyan/满洲语bot：@manju_gisun/桔：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "fulgiyan"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "manju_gisun"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906271261095047170/syhgZG8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8346,
+          "following_count": 726,
+          "like_count": 131488,
+          "listed_count": 47,
+          "media_count": 1527,
+          "tweet_count": 19542
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

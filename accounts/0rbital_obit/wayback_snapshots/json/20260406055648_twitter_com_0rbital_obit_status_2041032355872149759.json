@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2041032355872149759",
+    "created_at": "2026-04-06T05:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041032355872149759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1549011946871336960",
+          "start": 3,
+          "username": "Alantur57426778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041032355872149759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041008954273333355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alantur57426778: 所以我不会被任何宏大叙事裹挟，\n除非那是性少数构筑的集体叙事。\n因为性多数占绝对主体的人口结构，\n必然使“反法西斯”、“民主自由”、“解放大众”蒙上一层顺直only的色彩。\n他们哭，他们笑，与我何干？\n撑法西斯的罗姆因为性取向被枪毙，反…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2041032355872149759",
+        "created_at": "2026-04-06T05:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041032355872149759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1549011946871336960",
+              "start": 3,
+              "username": "Alantur57426778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041032355872149759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041008954273333355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alantur57426778: 所以我不会被任何宏大叙事裹挟，\n除非那是性少数构筑的集体叙事。\n因为性多数占绝对主体的人口结构，\n必然使“反法西斯”、“民主自由”、“解放大众”蒙上一层顺直only的色彩。\n他们哭，他们笑，与我何干？\n撑法西斯的罗姆因为性取向被枪毙，反…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549011946871336960",
+        "conversation_id": "2041008954273333355",
+        "created_at": "2026-04-06T04:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041008954273333355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/432Ifantrygrou…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/432Ifantrygroup/status/2040480158122119593",
+              "start": 147,
+              "url": "https://t.co/CI7BTRLywh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041008954273333355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040480158122119593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我不会被任何宏大叙事裹挟，\n除非那是性少数构筑的集体叙事。\n因为性多数占绝对主体的人口结构，\n必然使“反法西斯”、“民主自由”、“解放大众”蒙上一层顺直only的色彩。\n他们哭，他们笑，与我何干？\n撑法西斯的罗姆因为性取向被枪毙，反法西斯的图灵因为性取向被阉割，\n性少数的参与换来了什么？ https://t.co/CI7BTRLywh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 248,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "沢尔请给全体酷儿道歉！",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "咸福宫日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 170,
+          "like_count": 12019,
+          "listed_count": 5,
+          "media_count": 573,
+          "tweet_count": 1672
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

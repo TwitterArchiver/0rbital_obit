@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1918391998920221000",
+    "created_at": "2025-05-02T19:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T20:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918391998920221000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1616855396811173888",
+          "start": 3,
+          "username": "HeiseiJyanaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918391998920221000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917844679997194489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HeiseiJyanaku: 不要買，我用了之後起高原反應了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1918391998920221000",
+        "created_at": "2025-05-02T19:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T20:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918391998920221000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1616855396811173888",
+              "start": 3,
+              "username": "HeiseiJyanaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918391998920221000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917844679997194489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HeiseiJyanaku: 不要買，我用了之後起高原反應了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616855396811173888",
+        "conversation_id": "1917844679997194489",
+        "created_at": "2025-05-01T07:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T08:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917844679997194489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_mizutani__/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/_mizutani__/status/1917575310478037375",
+              "start": 16,
+              "url": "https://t.co/vL5cExyIy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917844679997194489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917575310478037375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要買，我用了之後起高原反應了 https://t.co/vL5cExyIy5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "不得通过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️ 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 146,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T17:49:12.000Z",
+        "description": "The Final Curtain: YOU CAN (NOT) KEEP YOUR EXISTENCE",
+        "id": "1616855396811173888",
+        "location": "89.7 Growl FM",
+        "name": "終幕間近 Bye-bye Show",
+        "pinned_tweet_id": "1915230529906950294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902434517367095296/llLek5HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 292,
+          "like_count": 56810,
+          "listed_count": 4,
+          "media_count": 241,
+          "tweet_count": 2525
+        },
+        "username": "HeiseiJyanaku",
+        "verified": false
+      }
+    ]
+  }
+}

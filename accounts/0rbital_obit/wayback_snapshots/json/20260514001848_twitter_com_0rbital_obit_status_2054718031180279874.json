@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2054624793589322167",
+    "created_at": "2026-05-14T00:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054718031180279874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813768883540725760",
+          "start": 0,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054718031180279874",
+    "in_reply_to_user_id": "1813768883540725760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054624793589322167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ye_and_yae 羡慕怪异发型 奇装异服能出现在学校的册子里。我们班连学生自己出钱做的毕业册的设计和放的照片都得经过班主任 年级部门 学校高层的层层审查，只允许千篇一律的仿若国旗下讲话一样的复制人寄语和劳改头立正照片。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2054624756423692288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIN-VIFbkAAarlp.jpg",
+        "width": 2160
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2054624787323027456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIN-W7MaAAAUrn0.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2054624793589322167",
+        "created_at": "2026-05-14T00:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054718031180279874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813768883540725760",
+              "start": 0,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054718031180279874",
+        "in_reply_to_user_id": "1813768883540725760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054624793589322167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ye_and_yae 羡慕怪异发型 奇装异服能出现在学校的册子里。我们班连学生自己出钱做的毕业册的设计和放的照片都得经过班主任 年级部门 学校高层的层层审查，只允许千篇一律的仿若国旗下讲话一样的复制人寄语和劳改头立正照片。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054624756423692288",
+            "3_2054624787323027456"
+          ]
+        },
+        "author_id": "1813768883540725760",
+        "conversation_id": "2054624793589322167",
+        "created_at": "2026-05-13T18:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054624793589322167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RGik4yV6v",
+              "end": 46,
+              "expanded_url": "https://x.com/ye_and_yae/status/2054624793589322167/photo/1",
+              "media_key": "3_2054624756423692288",
+              "start": 23,
+              "url": "https://t.co/7RGik4yV6v"
+            },
+            {
+              "display_url": "pic.x.com/7RGik4yV6v",
+              "end": 46,
+              "expanded_url": "https://x.com/ye_and_yae/status/2054624793589322167/photo/1",
+              "media_key": "3_2054624787323027456",
+              "start": 23,
+              "url": "https://t.co/7RGik4yV6v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054624793589322167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4779,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学姐…？\n是学长！！！\n还有男娘学长…好可爱 https://t.co/7RGik4yV6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 288,
+          "like_count": 1196,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 943
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "09/01/26  快到期的高三mtx 有时含糖   喜欢航天 二次元   \n主人 @yesterdayorange         \n   \n                                                 恋人 @gcjl9188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "yesterdayorange"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "gcjl9188"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "location": "Starbase TX",
+        "name": "爱晔🍥",
+        "pinned_tweet_id": "2052819802876723249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044867199542886400/5KCU5S6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 918,
+          "like_count": 4464,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 2647
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": false
+      }
+    ]
+  }
+}

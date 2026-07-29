@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2071955893542150156",
+    "created_at": "2026-06-30T18:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T19:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072018939971064018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "746334974056357889",
+          "start": 0,
+          "username": "Horned_Makarino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072018939971064018",
+    "in_reply_to_user_id": "746334974056357889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071955893542150156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Horned_Makarino 那吃的很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2071955893542150156",
+        "created_at": "2026-06-30T18:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072018939971064018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "746334974056357889",
+              "start": 0,
+              "username": "Horned_Makarino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072018939971064018",
+        "in_reply_to_user_id": "746334974056357889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071955893542150156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Horned_Makarino 那吃的很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "746334974056357889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2071955893542150156",
+        "created_at": "2026-06-30T13:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071955893542150156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071955893542150156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我这个1966年被麦卡锡主义Q死塔下，1970年拆队搞成躺赢单飞局，1971年后不会写第二首《Imagine》，1975年开启绿卡软饭期，1980年复出难听到让歌迷求他退圈，全生涯靠保罗大腿和Yoko巫术，写歌只会复读“Love&amp;Peace”，弹琴像切菜，唱歌靠嚎，私德稀碎，最后被三枪抬走的摇滚圣徒，乐坛的排面巨婴逗笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 326,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-24T13:31:39.000Z",
+        "description": "绿色汁水的制造者。我在深圳，我在澳门，我拍照，我吃饭，我乱发内容，我摄入乱七八糟的音乐书籍电影，别哭我只是鳗鱼乐队\n\n摸了",
+        "id": "746334974056357889",
+        "location": "畜生界",
+        "name": "青花鱼的最高点",
+        "pinned_tweet_id": "1879836058537636233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855880738249609216/dJFgyZxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 1090,
+          "like_count": 871,
+          "listed_count": 1,
+          "media_count": 1087,
+          "tweet_count": 3707
+        },
+        "url": "",
+        "username": "Horned_Makarino",
+        "verified": false
+      }
+    ]
+  }
+}

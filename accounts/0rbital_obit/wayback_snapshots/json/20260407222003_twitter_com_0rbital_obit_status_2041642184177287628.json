@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2041560425335288200",
+    "created_at": "2026-04-07T22:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T23:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041642184177287628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1657175394267848704",
+          "start": 0,
+          "username": "Zh40Le1ZOOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041642184177287628",
+    "in_reply_to_user_id": "1657175394267848704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041560427847675945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zh40Le1ZOOB 不要……不要……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2041560425335288200",
+        "created_at": "2026-04-07T22:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T23:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041642184177287628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1657175394267848704",
+              "start": 0,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041642184177287628",
+        "in_reply_to_user_id": "1657175394267848704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041560427847675945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zh40Le1ZOOB 不要……不要……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "2041560425335288200",
+        "created_at": "2026-04-07T16:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041560427847675945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041560427847675945",
+        "in_reply_to_user_id": "1657175394267848704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041560425335288200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后如果他联系精神病院就更麻烦了，有官方支持的抓人行为……\n这意味着只要老赵不死，我一辈子都逃脱不了这种阴影\n我还是赶紧为自己做好氰化物胶囊吧\n与其每天活在恐惧里，还是危急关头紧急脱出更好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 260,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "邮箱：mtf@ik.me 或 progynova@duck.com（马甲）\nTelegram：下方链接\n如有紧急情况请直接 Telegram Call",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Zh40Le1ZOOB.t.me",
+                "end": 23,
+                "expanded_url": "https://Zh40Le1ZOOB.t.me",
+                "start": 0,
+                "url": "https://t.co/pbaTs1VNGb"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "org.z.nixpkgs.command_block",
+        "pinned_tweet_id": "2041170735167848697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 735,
+          "like_count": 6789,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 5393
+        },
+        "url": "https://t.co/pbaTs1VNGb",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

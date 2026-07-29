@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962396684140568576"
+      ],
+      "media_source_tweet_id": [
+        "1962396691749089384"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "conversation_id": "1962714705274814913",
+    "created_at": "2025-09-02T03:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T04:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962714705274814913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Y8h9erC2F",
+          "end": 64,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1962396691749089384/photo/1",
+          "media_key": "3_1962396684140568576",
+          "start": 41,
+          "url": "https://t.co/1Y8h9erC2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962714705274814913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962396691749089384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 比【无法理解】更恐怖的是，我【曾经精通】 https://t.co/1Y8h9erC2F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1962396684140568576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvVYxKaYAAk4qc.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962396684140568576"
+          ],
+          "media_source_tweet_id": [
+            "1962396691749089384"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "conversation_id": "1962714705274814913",
+        "created_at": "2025-09-02T03:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T04:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962714705274814913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Y8h9erC2F",
+              "end": 64,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1962396691749089384/photo/1",
+              "media_key": "3_1962396684140568576",
+              "start": 41,
+              "url": "https://t.co/1Y8h9erC2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962714705274814913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962396691749089384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 比【无法理解】更恐怖的是，我【曾经精通】 https://t.co/1Y8h9erC2F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962396684140568576"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1962396691749089384",
+        "created_at": "2025-09-01T06:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T07:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962396691749089384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Y8h9erC2F",
+              "end": 44,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1962396691749089384/photo/1",
+              "media_key": "3_1962396684140568576",
+              "start": 21,
+              "url": "https://t.co/1Y8h9erC2F"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "1962396691749089384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 145981,
+          "like_count": 1946,
+          "quote_count": 13,
+          "reply_count": 50,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "比【无法理解】更恐怖的是，我【曾经精通】 https://t.co/1Y8h9erC2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人 ｜ 半癫 半疯 半自理 半死                ｜                                 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 227,
+          "like_count": 797,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6586,
+          "following_count": 6110,
+          "like_count": 21778,
+          "listed_count": 18,
+          "media_count": 4192,
+          "tweet_count": 30870
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

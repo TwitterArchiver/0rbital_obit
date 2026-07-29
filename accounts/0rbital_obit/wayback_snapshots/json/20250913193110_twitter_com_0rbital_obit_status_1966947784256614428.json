@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1966947784256614428",
+    "created_at": "2025-09-13T19:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T20:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966947784256614428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663370977387114502",
+          "start": 3,
+          "username": "CyberMakhn0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966947784256614428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966314910331318657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberMakhn0: 走出男性的伞才发现外面没有下雨🌂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1966947784256614428",
+        "created_at": "2025-09-13T19:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966947784256614428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663370977387114502",
+              "start": 3,
+              "username": "CyberMakhn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966947784256614428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966314910331318657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberMakhn0: 走出男性的伞才发现外面没有下雨🌂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663370977387114502",
+        "conversation_id": "1966314910331318657",
+        "created_at": "2025-09-12T01:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T02:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966314910331318657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/33isnotMhere/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/33isnotMhere/status/1966134157605822619",
+              "start": 17,
+              "url": "https://t.co/ms1iY44U8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966314910331318657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966134157605822619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "走出男性的伞才发现外面没有下雨🌂 https://t.co/ms1iY44U8J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人 ｜ 半癫 半疯 半自理 半死                ｜                                 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 230,
+          "like_count": 805,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T02:25:31.000Z",
+        "description": "已死亡",
+        "id": "1663370977387114502",
+        "name": "抱着桶滚来滚去的第欧根尼狐🦊🍥",
+        "pinned_tweet_id": "1745253038993166443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898759723417296896/SkHKpPLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 399,
+          "like_count": 28180,
+          "listed_count": 2,
+          "media_count": 359,
+          "tweet_count": 3152
+        },
+        "username": "CyberMakhn0",
+        "verified": false
+      }
+    ]
+  }
+}
