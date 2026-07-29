@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T12:30:29",
+  "last_updated": "2026-07-29T12:33:35",
   "html": {
     "https://web.archive.org/web/20240804134825if_/https://twitter.com/0rbital_obit/status/1820094444571640267": {
       "status": "done",
@@ -6407,18 +6407,18 @@
       "referenced_by": [
         "20251011033654_twitter_com_0rbital_obit_status_1976854494848991518.json"
       ],
-      "last_updated": "2026-07-29T12:14:52",
+      "last_updated": "2026-07-29T12:33:33",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251011033654/https://video.twimg.com/amplify_video/1976456588362948608/vid/avc1/720x960/VYlW2nnwiBuyPFHm.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2047561112833695744/vid/avc1/720x1280/1jJkYDtoVlrcb6fg.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260424073726_twitter_com_0rbital_obit_status_2047580660022300703.json"
       ],
-      "last_updated": "2026-07-29T09:32:00",
+      "last_updated": "2026-07-29T12:33:35",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260424073726/https://video.twimg.com/amplify_video/2047561112833695744/vid/avc1/720x1280/1jJkYDtoVlrcb6fg.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2047226237852987392/pu/vid/avc1/720x1280/9TzkbRYY73Mnwdu7.mp4": {
       "status": "done",
