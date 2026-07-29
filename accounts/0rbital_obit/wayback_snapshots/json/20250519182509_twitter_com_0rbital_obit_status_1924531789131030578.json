@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "1924531789131030578",
+    "created_at": "2025-05-19T18:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T19:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924531789131030578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1533097229958885377",
+          "start": 3,
+          "username": "Theboxofgirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924531789131030578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918634043798585719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Theboxofgirl: 想被车撞死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "1924531789131030578",
+        "created_at": "2025-05-19T18:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T19:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924531789131030578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1533097229958885377",
+              "start": 3,
+              "username": "Theboxofgirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924531789131030578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918634043798585719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Theboxofgirl: 想被车撞死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533097229958885377",
+        "conversation_id": "1918634043798585719",
+        "created_at": "2025-05-03T11:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T12:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918634043798585719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918634043798585719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想被车撞死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "可怜无定河边骨 犹是春闺梦里人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "13:00",
+        "name": "流逝光年应是恨，但知来日不方长 🏳️‍⚧️ 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 148,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-04T14:44:09.000Z",
+        "description": "你知道吗？死亡其实是一种解脱。我不会自杀，可我却期待着意外事故将我带走。",
+        "id": "1533097229958885377",
+        "location": "天上",
+        "name": "伊吹 勢津子",
+        "pinned_tweet_id": "1824388378319786486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814301291096821760/yHoPwooI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 79,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 798
+        },
+        "username": "Theboxofgirl",
+        "verified": false
+      }
+    ]
+  }
+}
