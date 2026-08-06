@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2084085607882477846",
+    "created_at": "2026-08-03T01:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084085607882477846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882671462210998272",
+          "start": 3,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084085607882477846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083844877218205752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HosinoEJ: 我是同样的戒网瘾学校的受害者之一，而对于这种当受害者继父事情，据传经常发生。\n以下故事是我听里面的教官告诉我的，不保真，但应也该不会很假：\n\n在“小右”被送进去之前，有另外一名未成年受害者也受到了性侵。和“小右”不同，那位受害者的生理性别就是女孩子，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2084085607882477846",
+        "created_at": "2026-08-03T01:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084085607882477846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882671462210998272",
+              "start": 3,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084085607882477846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083844877218205752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HosinoEJ: 我是同样的戒网瘾学校的受害者之一，而对于这种当受害者继父事情，据传经常发生。\n以下故事是我听里面的教官告诉我的，不保真，但应也该不会很假：\n\n在“小右”被送进去之前，有另外一名未成年受害者也受到了性侵。和“小右”不同，那位受害者的生理性别就是女孩子，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882671462210998272",
+        "conversation_id": "2083844877218205752",
+        "created_at": "2026-08-02T09:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083844877218205752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2083579742268379573",
+              "start": 143,
+              "url": "https://t.co/l4E8vy1J5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083844877218205752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是同样的戒网瘾学校的受害者之一，而对于这种当受害者继父事情，据传经常发生。\n以下故事是我听里面的教官告诉我的，不保真，但应也该不会很假：\n\n在“小右”被送进去之前，有另外一名未成年受害者也受到了性侵。和“小右”不同，那位受害者的生理性别就是女孩子，并且怀了孕。因此那位教官进了监狱。\n我们暂且不提为什么李**为什么没有进去，告诉我这件事的那个教官告诉我，那个受害者是单亲家庭，是她母亲在照顾她。而她当时还在试图勾搭那名母亲，同样想做那个受害者的继父。因为性侵这个事情已经出现，而且受害者怀了孕，这事也就不了了之。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8237,
+          "like_count": 35,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083579742268379573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是同样的戒网瘾学校的受害者之一，而对于这种当受害者继父事情，据传经常发生。\n以下故事是我听里面的教官告诉我的，不保真，但应也该不会很假：\n\n在“小右”被送进去之前，有另外一名未成年受害者也受到了性侵。和“小右”不同，那位受害者的生理性别就是女孩子，并且怀了孕。因此那位教官进了监狱。 https://t.co/l4E8vy1J5B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 353,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "🏴‍☠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw1HI8"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "HosinoNeko",
+        "pinned_tweet_id": "2045296996916027852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078823944208195584/ihFWiaXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 580,
+          "like_count": 4300,
+          "listed_count": 4,
+          "media_count": 826,
+          "tweet_count": 4236
+        },
+        "url": "https://t.co/2FBvyw1HI8",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082478732095229952"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2082365469949047034",
+    "created_at": "2026-07-29T14:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082478738659258751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1783429774775648256",
+          "start": 0,
+          "username": "Huouo908070"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YddXOUHbTU",
+          "end": 36,
+          "expanded_url": "https://x.com/0rbital_obit/status/2082478738659258751/photo/1",
+          "media_key": "3_2082478732095229952",
+          "start": 13,
+          "url": "https://t.co/YddXOUHbTU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082478738659258751",
+    "in_reply_to_user_id": "1783429774775648256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082365469949047034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huouo908070 https://t.co/YddXOUHbTU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2082478732095229952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZzX5bXkAAUAdD.jpg",
+        "width": 1086
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082365456455999488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYMWYyaoAAOakt.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082478732095229952"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082365469949047034",
+        "created_at": "2026-07-29T14:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082478738659258751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1783429774775648256",
+              "start": 0,
+              "username": "Huouo908070"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YddXOUHbTU",
+              "end": 36,
+              "expanded_url": "https://x.com/0rbital_obit/status/2082478738659258751/photo/1",
+              "media_key": "3_2082478732095229952",
+              "start": 13,
+              "url": "https://t.co/YddXOUHbTU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082478738659258751",
+        "in_reply_to_user_id": "1783429774775648256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082365469949047034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huouo908070 https://t.co/YddXOUHbTU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082365456455999488"
+          ]
+        },
+        "author_id": "1783429774775648256",
+        "conversation_id": "2082365469949047034",
+        "created_at": "2026-07-29T07:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082365469949047034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBkB90Bp6T",
+              "end": 52,
+              "expanded_url": "https://x.com/Huouo908070/status/2082365469949047034/photo/1",
+              "media_key": "3_2082365456455999488",
+              "start": 29,
+              "url": "https://t.co/aBkB90Bp6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082365469949047034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4193,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "华哥为什么要带良子爬峨眉山，风险这么大。真是为了流量吗？ https://t.co/aBkB90Bp6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 350,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1115
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-25T09:36:16.000Z",
+        "description": "",
+        "id": "1783429774775648256",
+        "name": "伟大",
+        "pinned_tweet_id": "2073223289795903584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049137842287435777/4gLCZBiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7203,
+          "following_count": 2006,
+          "like_count": 8752,
+          "listed_count": 7,
+          "media_count": 430,
+          "tweet_count": 4980
+        },
+        "url": "",
+        "username": "Huouo908070",
+        "verified": true
+      }
+    ]
+  }
+}
