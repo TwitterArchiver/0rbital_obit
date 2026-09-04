@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2086572802161705133",
+    "created_at": "2026-08-09T21:58:17.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086572802161705133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1748064252521545731",
+          "start": 3,
+          "username": "mihuanhuanhuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086572802161705133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086287584578461910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mihuanhuanhuan: 抑郁症家庭的父母一定是控制狂\n控制狂催生抑郁症\n如果家里所有的门窗都封死了只有一个地方可以逃了………"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2086572802161705133",
+        "created_at": "2026-08-09T21:58:17.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086572802161705133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1748064252521545731",
+              "start": 3,
+              "username": "mihuanhuanhuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086572802161705133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086287584578461910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mihuanhuanhuan: 抑郁症家庭的父母一定是控制狂\n控制狂催生抑郁症\n如果家里所有的门窗都封死了只有一个地方可以逃了………"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748064252521545731",
+        "conversation_id": "2086287584578461910",
+        "created_at": "2026-08-09T03:04:56.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086287584578461910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2086071502261366843",
+              "start": 51,
+              "url": "https://t.co/OStZgEKJ5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086287584578461910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086071502261366843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抑郁症家庭的父母一定是控制狂\n控制狂催生抑郁症\n如果家里所有的门窗都封死了只有一个地方可以逃了……… https://t.co/OStZgEKJ5Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "is_identity_verified": false,
+        "location": "6:4",
+        "most_recent_tweet_id": "2086572802161705133",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781621357014286336/1748869975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 362,
+          "like_count": 1612,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T19:26:25.000Z",
+        "description": "杭州拍摄剪辑/mtx/intp\n懂一点点心理学和商业 目前宅家度过抑郁期\n蓝标互关 我需要钱 但目前没精力\n如果你有自杀风险或者od失控风险请远离我",
+        "id": "1748064252521545731",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2086530144911700408",
+        "name": "迷幻章鱼🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748064252521545731/1778921642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756361529560064000/cWcrXvVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 545,
+          "like_count": 3781,
+          "listed_count": 3,
+          "media_count": 579,
+          "tweet_count": 4149
+        },
+        "url": "",
+        "username": "mihuanhuanhuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

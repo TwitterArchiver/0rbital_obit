@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2087618880545939582",
+    "created_at": "2026-08-12T19:15:01.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087618880545939582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597468568290873344",
+          "start": 3,
+          "username": "jingzhny11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087618880545939582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087450842265965019",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingzhny11: 你的意思是，因为窝两轮车挂外地牌照所以要罚我五十，但是因为窝的两轮车上过外地牌照所以哪怕注销了也没法再上一个本地牌照？😿\n我就说，任何向国家机器及其法律的妥协都是与虎谋皮😾\n还是那句话，哪怕你用最大的恶意揣测国家，最后你永远会发现你揣测得还不够恶…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2087618880545939582",
+        "created_at": "2026-08-12T19:15:01.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087618880545939582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597468568290873344",
+              "start": 3,
+              "username": "jingzhny11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087618880545939582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087450842265965019",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingzhny11: 你的意思是，因为窝两轮车挂外地牌照所以要罚我五十，但是因为窝的两轮车上过外地牌照所以哪怕注销了也没法再上一个本地牌照？😿\n我就说，任何向国家机器及其法律的妥协都是与虎谋皮😾\n还是那句话，哪怕你用最大的恶意揣测国家，最后你永远会发现你揣测得还不够恶…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597468568290873344",
+        "conversation_id": "2087450842265965019",
+        "created_at": "2026-08-12T08:07:18.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087450842265965019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087450842265965019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 897,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你的意思是，因为窝两轮车挂外地牌照所以要罚我五十，但是因为窝的两轮车上过外地牌照所以哪怕注销了也没法再上一个本地牌照？😿\n我就说，任何向国家机器及其法律的妥协都是与虎谋皮😾\n还是那句话，哪怕你用最大的恶意揣测国家，最后你永远会发现你揣测得还不够恶意😸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "is_identity_verified": false,
+        "location": "6:4",
+        "most_recent_tweet_id": "2087618880545939582",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781621357014286336/1748869975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 363,
+          "like_count": 1617,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "🍥​2023 srs2025 一米九超大只术娘老阿姨\n自由左翼的，混乱善良的，激跨的，支持精神活性物质的，ODer但水平很差的，想当黄推的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视/如果我放弃我的自由屈从于国家机器的规训我就已经死了",
+        "id": "1597468568290873344",
+        "is_identity_verified": false,
+        "location": "谁人的繁星之梦",
+        "most_recent_tweet_id": "2087591765511729466",
+        "name": "愿望天使DesireAngel",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597468568290873344/1771935753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462875855900673/BMWGdQhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5889,
+          "following_count": 2006,
+          "like_count": 128465,
+          "listed_count": 22,
+          "media_count": 268,
+          "tweet_count": 19427
+        },
+        "url": "",
+        "username": "jingzhny11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

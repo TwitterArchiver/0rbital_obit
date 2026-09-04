@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2087620816586346813",
+    "created_at": "2026-08-12T20:08:37.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T21:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087632366973894789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2318711205",
+          "start": 0,
+          "username": "Varguez05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087632366973894789",
+    "in_reply_to_user_id": "2318711205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087620936010744273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Varguez05 又显着你了，滚！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2087620816586346813",
+        "created_at": "2026-08-12T20:08:37.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T21:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087632366973894789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2318711205",
+              "start": 0,
+              "username": "Varguez05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087632366973894789",
+        "in_reply_to_user_id": "2318711205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087620936010744273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Varguez05 又显着你了，滚！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2318711205",
+        "conversation_id": "2087620816586346813",
+        "created_at": "2026-08-12T19:23:11.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087620936010744273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781621357014286336",
+              "start": 0,
+              "username": "0rbital_obit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087620936010744273",
+        "in_reply_to_user_id": "1781621357014286336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087620816586346813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0rbital_obit 这像是在讽刺“一禁了之”的思路。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "is_identity_verified": false,
+        "location": "6:4",
+        "most_recent_tweet_id": "2087632366973894789",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781621357014286336/1748869975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 363,
+          "like_count": 1623,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-01T20:23:34.000Z",
+        "description": "网络稳定才有安全感，我一直都在用这款 VPN，喜欢我视频的朋友可以下载支持一下👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fl1.me/2",
+                "end": 23,
+                "expanded_url": "https://fl1.me/2",
+                "start": 0,
+                "url": "https://t.co/VwOeCewtAj"
+              }
+            ]
+          }
+        },
+        "id": "2318711205",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087621103808127386",
+        "name": "FoxLink银狐高速梯子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2318711205/1400114058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084736293687238656/87n5aobt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 160,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/VwOeCewtAj",
+        "username": "Varguez05",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

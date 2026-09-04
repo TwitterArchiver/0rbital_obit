@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094102747096436736",
+        "3_2094102747096477696",
+        "3_2094102747104878592"
+      ],
+      "media_source_tweet_id": [
+        "2094102756089033184",
+        "2094102756089033184",
+        "2094102756089033184"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "conversation_id": "2094167013660688643",
+    "created_at": "2026-08-30T20:54:58.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T21:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094167013660688643"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "そよむつ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2050656465111990272",
+          "start": 3,
+          "username": "Zero51dc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kciXdZ8cVC",
+          "end": 43,
+          "expanded_url": "https://x.com/Zero51dc/status/2094102756089033184/photo/1",
+          "media_key": "3_2094102747096436736",
+          "start": 20,
+          "url": "https://t.co/kciXdZ8cVC"
+        },
+        {
+          "display_url": "pic.x.com/kciXdZ8cVC",
+          "end": 43,
+          "expanded_url": "https://x.com/Zero51dc/status/2094102756089033184/photo/1",
+          "media_key": "3_2094102747096477696",
+          "start": 20,
+          "url": "https://t.co/kciXdZ8cVC"
+        },
+        {
+          "display_url": "pic.x.com/kciXdZ8cVC",
+          "end": 43,
+          "expanded_url": "https://x.com/Zero51dc/status/2094102756089033184/photo/1",
+          "media_key": "3_2094102747104878592",
+          "start": 20,
+          "url": "https://t.co/kciXdZ8cVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094167013660688643",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2094102747096436736"
+      },
+      {
+        "media_key": "3_2094102747096477696"
+      },
+      {
+        "media_key": "3_2094102747104878592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094102756089033184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zero51dc: #そよむつ https://t.co/kciXdZ8cVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2826,
+        "media_key": "3_2094102747096436736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-_WnvaUAAvv-T.jpg",
+        "width": 2025
+      },
+      {
+        "height": 2940,
+        "media_key": "3_2094102747096477696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-_Wnva8AAtPdW.jpg",
+        "width": 2411
+      },
+      {
+        "height": 1897,
+        "media_key": "3_2094102747104878592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-_WnxbIAABLsG.jpg",
+        "width": 1953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094102747096436736",
+            "3_2094102747096477696",
+            "3_2094102747104878592"
+          ],
+          "media_source_tweet_id": [
+            "2094102756089033184",
+            "2094102756089033184",
+            "2094102756089033184"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "conversation_id": "2094167013660688643",
+        "created_at": "2026-08-30T20:54:58.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T21:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094167013660688643"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "そよむつ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2050656465111990272",
+              "start": 3,
+              "username": "Zero51dc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kciXdZ8cVC",
+              "end": 43,
+              "expanded_url": "https://x.com/Zero51dc/status/2094102756089033184/photo/1",
+              "media_key": "3_2094102747096436736",
+              "start": 20,
+              "url": "https://t.co/kciXdZ8cVC"
+            },
+            {
+              "display_url": "pic.x.com/kciXdZ8cVC",
+              "end": 43,
+              "expanded_url": "https://x.com/Zero51dc/status/2094102756089033184/photo/1",
+              "media_key": "3_2094102747096477696",
+              "start": 20,
+              "url": "https://t.co/kciXdZ8cVC"
+            },
+            {
+              "display_url": "pic.x.com/kciXdZ8cVC",
+              "end": 43,
+              "expanded_url": "https://x.com/Zero51dc/status/2094102756089033184/photo/1",
+              "media_key": "3_2094102747104878592",
+              "start": 20,
+              "url": "https://t.co/kciXdZ8cVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094167013660688643",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094102747096436736"
+          },
+          {
+            "media_key": "3_2094102747096477696"
+          },
+          {
+            "media_key": "3_2094102747104878592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094102756089033184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zero51dc: #そよむつ https://t.co/kciXdZ8cVC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094102747096436736",
+            "3_2094102747096477696",
+            "3_2094102747104878592"
+          ]
+        },
+        "author_id": "2050656465111990272",
+        "conversation_id": "2094102756089033184",
+        "created_at": "2026-08-30T16:39:38.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094102756089033184"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "そよむつ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kciXdZ8cVC",
+              "end": 29,
+              "expanded_url": "https://x.com/Zero51dc/status/2094102756089033184/photo/1",
+              "media_key": "3_2094102747096436736",
+              "start": 6,
+              "url": "https://t.co/kciXdZ8cVC"
+            },
+            {
+              "display_url": "pic.x.com/kciXdZ8cVC",
+              "end": 29,
+              "expanded_url": "https://x.com/Zero51dc/status/2094102756089033184/photo/1",
+              "media_key": "3_2094102747096477696",
+              "start": 6,
+              "url": "https://t.co/kciXdZ8cVC"
+            },
+            {
+              "display_url": "pic.x.com/kciXdZ8cVC",
+              "end": 29,
+              "expanded_url": "https://x.com/Zero51dc/status/2094102756089033184/photo/1",
+              "media_key": "3_2094102747104878592",
+              "start": 6,
+              "url": "https://t.co/kciXdZ8cVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094102756089033184",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2094102747096436736"
+          },
+          {
+            "media_key": "3_2094102747096477696"
+          },
+          {
+            "media_key": "3_2094102747104878592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 1670,
+          "like_count": 220,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "#そよむつ https://t.co/kciXdZ8cVC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "is_identity_verified": false,
+        "location": "6:4",
+        "most_recent_tweet_id": "2094167013660688643",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781621357014286336/1748869975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 362,
+          "like_count": 1653,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1158
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T19:22:06.000Z",
+        "description": "🥒｜堆图号｜为了取悦自己的存在",
+        "id": "2050656465111990272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094102756089033184",
+        "name": "夢寐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050656465111990272/1777750469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087757625119395840/8khdNok7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 19,
+          "like_count": 204,
+          "listed_count": 6,
+          "media_count": 11,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "Zero51dc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
