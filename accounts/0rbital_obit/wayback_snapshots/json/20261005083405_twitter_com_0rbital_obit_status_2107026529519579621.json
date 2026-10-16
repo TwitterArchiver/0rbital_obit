@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106559260922662912",
+        "3_2106559261199519744"
+      ],
+      "media_source_tweet_id": [
+        "2106562191646433340",
+        "2106562191646433340"
+      ]
+    },
+    "author_id": "1781621357014286336",
+    "conversation_id": "2107026529519579621",
+    "created_at": "2026-10-05T08:34:05.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107026529519579621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/53jsmyuF67",
+          "end": 86,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2106562191646433340/photo/1",
+          "media_key": "3_2106559260922662912",
+          "start": 63,
+          "url": "https://t.co/53jsmyuF67"
+        },
+        {
+          "display_url": "pic.x.com/53jsmyuF67",
+          "end": 86,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2106562191646433340/photo/1",
+          "media_key": "3_2106559261199519744",
+          "start": 63,
+          "url": "https://t.co/53jsmyuF67"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107026529519579621",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106559260922662912"
+      },
+      {
+        "media_key": "3_2106559261199519744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1293
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106562191646433340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 感觉很多父母辈的都不知道自己有精神病。。。\n\n代入一下太窒息了，她还是用的自己的奖学金 https://t.co/53jsmyuF67"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2093,
+        "media_key": "3_2106559260922662912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwAfJ2a0AAtI9z.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2093,
+        "media_key": "3_2106559261199519744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwAfK4bUAAvp0E.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106559260922662912",
+            "3_2106559261199519744"
+          ],
+          "media_source_tweet_id": [
+            "2106562191646433340",
+            "2106562191646433340"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "conversation_id": "2107026529519579621",
+        "created_at": "2026-10-05T08:34:05.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107026529519579621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/53jsmyuF67",
+              "end": 86,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2106562191646433340/photo/1",
+              "media_key": "3_2106559260922662912",
+              "start": 63,
+              "url": "https://t.co/53jsmyuF67"
+            },
+            {
+              "display_url": "pic.x.com/53jsmyuF67",
+              "end": 86,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2106562191646433340/photo/1",
+              "media_key": "3_2106559261199519744",
+              "start": 63,
+              "url": "https://t.co/53jsmyuF67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107026529519579621",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106559260922662912"
+          },
+          {
+            "media_key": "3_2106559261199519744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1293
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106562191646433340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 感觉很多父母辈的都不知道自己有精神病。。。\n\n代入一下太窒息了，她还是用的自己的奖学金 https://t.co/53jsmyuF67"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106559260922662912",
+            "3_2106559261199519744"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2106562191646433340",
+        "created_at": "2026-10-04T01:48:59.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:37:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106559267583263186",
+          "2106562191646433340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/53jsmyuF67",
+              "end": 67,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2106562191646433340/photo/1",
+              "media_key": "3_2106559260922662912",
+              "start": 44,
+              "url": "https://t.co/53jsmyuF67"
+            },
+            {
+              "display_url": "pic.x.com/53jsmyuF67",
+              "end": 67,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2106562191646433340/photo/1",
+              "media_key": "3_2106559261199519744",
+              "start": 44,
+              "url": "https://t.co/53jsmyuF67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106562191646433340",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106559260922662912"
+          },
+          {
+            "media_key": "3_2106559261199519744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2581,
+          "impression_count": 2237759,
+          "like_count": 25320,
+          "quote_count": 230,
+          "reply_count": 835,
+          "retweet_count": 1293
+        },
+        "reply_settings": "everyone",
+        "text": "感觉很多父母辈的都不知道自己有精神病。。。\n\n代入一下太窒息了，她还是用的自己的奖学金 https://t.co/53jsmyuF67"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "is_identity_verified": false,
+        "location": "6:4",
+        "most_recent_tweet_id": "2107026529519579621",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781621357014286336/1748869975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 389,
+          "like_count": 1785,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1199
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜Living today with the hope that tomorrow will be a little better🩷💙| 邮箱 ame@amesaku.cc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amesaku.cc",
+                "end": 23,
+                "expanded_url": "http://amesaku.cc",
+                "start": 0,
+                "url": "https://t.co/H1Gt3MUVE5"
+              }
+            ]
+          }
+        },
+        "id": "1573704119516176384",
+        "is_identity_verified": false,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2107026233926308145",
+        "name": "草莓泡芙🍀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097264541671542784/gDDAaJwQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101100,
+          "following_count": 3164,
+          "like_count": 9079,
+          "listed_count": 205,
+          "media_count": 890,
+          "tweet_count": 6042
+        },
+        "url": "https://t.co/H1Gt3MUVE5",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

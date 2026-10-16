@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1781621357014286336",
+    "conversation_id": "2106625368014913988",
+    "created_at": "2026-10-08T23:16:53.000Z",
+    "display_text_range": [
+      30,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T00:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108335856293474663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1292356550351175680",
+          "start": 0,
+          "username": "JasonHu_2001"
+        },
+        {
+          "end": 29,
+          "id": "1260553941714186241",
+          "start": 14,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108335856293474663",
+    "in_reply_to_user_id": "1292356550351175680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106628732870135988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JasonHu_2001 @whyyoutouzhele 我们的苦难不是你们用来规训别人的理由"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_2106628715837042689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTw_p9kasAEwINu.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "conversation_id": "2106625368014913988",
+        "created_at": "2026-10-08T23:16:53.000Z",
+        "display_text_range": [
+          30,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T00:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108335856293474663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1292356550351175680",
+              "start": 0,
+              "username": "JasonHu_2001"
+            },
+            {
+              "end": 29,
+              "id": "1260553941714186241",
+              "start": 14,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108335856293474663",
+        "in_reply_to_user_id": "1292356550351175680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106628732870135988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JasonHu_2001 @whyyoutouzhele 我们的苦难不是你们用来规训别人的理由"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106628715837042689"
+          ]
+        },
+        "author_id": "1292356550351175680",
+        "conversation_id": "2106625368014913988",
+        "created_at": "2026-10-04T06:13:23.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106628732870135988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNjJkWHaHq",
+              "end": 59,
+              "expanded_url": "https://x.com/JasonHu_2001/status/2106628732870135988/photo/1",
+              "media_key": "3_2106628715837042689",
+              "start": 36,
+              "url": "https://t.co/BNjJkWHaHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106628732870135988",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106628715837042689"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 25323,
+          "like_count": 248,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106625368014913988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 看来中国以外的中学生都处在水深火热之中 https://t.co/BNjJkWHaHq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "is_identity_verified": false,
+        "location": "6:4",
+        "most_recent_tweet_id": "2108335856293474663",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781621357014286336/1748869975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 390,
+          "like_count": 1799,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-09T07:06:42.000Z",
+        "description": "deja vu",
+        "id": "1292356550351175680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108191172804133366",
+        "name": "Jason_2001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292356550351175680/1669191405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663262726645514240/jpQR3oWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 210,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "JasonHu_2001",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2108331611129270309",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269346,
+          "following_count": 1083,
+          "like_count": 10581,
+          "listed_count": 8920,
+          "media_count": 54842,
+          "tweet_count": 62205
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
